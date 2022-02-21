@@ -4,7 +4,7 @@ Code and content from the [Move](https://github.com/diem/move) programming langu
 Move is a programming language for writing safe smart contracts originally developed at Facebook to power the Diem blockchain. Move is designed to be a platform-agnostic language to enable common libraries, tooling, and developer communities across diverse blockchains with vastly different data and execution models. Move's ambition is to become the "JavaScript of web3" in terms of ubiquity--when developers want to quickly write safe code involving assets, it should be written in Move.
 
 # Overview
-* [Installation](TODO)
+* [Installation](https://github.com/diem/move/tree/main/language/tools/move-cli#installation)
 * [Problem Statement](docs/problem_statement.md)
 
 # Move-Powered Blockchains
