@@ -93,7 +93,7 @@ The ability to separate blockchain-specific framework logic from the generic fun
 # IDE's
 * Move vscode plugin ([install](https://marketplace.visualstudio.com/items?itemName=move.move-analyzer), [source code](https://github.com/diem/move/tree/main/language/move-analyzer)). Maintained by the Move core team.
 * Move IntelliJ plugin ([install](https://plugins.jetbrains.com/plugin/14721-move-language), [source code](https://github.com/pontem-network/intellij-move))
-* [Move Playground](https://playground.pontem.network/), [instructions](https://gist.github.com/borispovod/64b6d23741d8c1f4b0b958a3a74aa68d). Loke Remix for Move--alpha version of a Web IDE. Maintained by the Pontem team.
+* [Move Playground](https://playground.pontem.network/), [instructions](https://gist.github.com/borispovod/64b6d23741d8c1f4b0b958a3a74aa68d). Like [Remix](https://remix.ethereum.org/) for Move--alpha version of a Web IDE. Maintained by the Pontem team.
 
 # Wallets
 * StarMask ([install](https://chrome.google.com/webstore/detail/starmask/mfhbebgoclkghebffdldpobeajmbecfk?hl=en), [source code](https://github.com/starcoinorg/starmask-extension)). A wallet for the StarCoin blockchain. Maintained by the StarCoin team.
