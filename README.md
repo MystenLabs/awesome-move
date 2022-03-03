@@ -82,6 +82,7 @@ The ability to separate blockchain-specific framework logic from the generic fun
 * [Math](https://github.com/starcoinorg/starcoin-framework/blob/main/sources/Math.move): math utility functions. From Starcoin.
 * [Compare](https://github.com/diem/move/blob/main/language/move-stdlib/nursery/sources/Compare.move): polymorphic comparison (i.e., compare any two Move values of the same type). From the nursery.
 * [Vault](https://github.com/diem/move/blob/main/language/move-stdlib/nursery/sources/Vault.move) and [ACL](https://github.com/diem/move/blob/main/language/move-stdlib/nursery/sources/ACL.move): libraries for capability and list-based acess control. From the nursery.
+* [TaoHe](https://github.com/taoheorg/taohe): a collection of nestable Move resources.
 * [Starcoin Framework Commons](https://github.com/starcoinorg/starcoin-framework-commons): libraries for Move commons utility on starcoin-framework. From Starcoin.
 
 ### Miscellaneous
