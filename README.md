@@ -93,6 +93,7 @@ The ability to separate blockchain-specific framework logic from the generic fun
 
 # IDE's
 * Move vscode plugin ([install](https://marketplace.visualstudio.com/items?itemName=move.move-analyzer), [source code](https://github.com/diem/move/tree/main/language/move-analyzer)). Maintained by the Move core team.
+* Move syntax vscode plugin: context-based Move syntax highlighting ([install](https://marketplace.visualstudio.com/items?itemName=damirka.move-syntax), [source code](https://github.com/damirka/vscode-move-syntax)). Maintained by [@damirka](https://github.com/damirka).
 * Move IntelliJ plugin ([install](https://plugins.jetbrains.com/plugin/14721-move-language), [source code](https://github.com/pontem-network/intellij-move))
 * [Move Playground](https://playground.pontem.network/), [instructions](https://gist.github.com/borispovod/64b6d23741d8c1f4b0b958a3a74aa68d). Like [Remix](https://remix.ethereum.org/) for Move--alpha version of a Web IDE. Maintained by the Pontem team.
 
