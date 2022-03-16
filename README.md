@@ -11,6 +11,7 @@ Move is a programming language for writing safe smart contracts originally devel
 * [0L](https://github.com/OLSF/libra) (in [mainnet](https://0l.network/))
 * [Starcoin](https://github.com/starcoinorg/starcoin) (in [mainnet](https://stcscan.io/))
 * [Pontem](https://github.com/pontem-network) (in [testnet](https://polkadot.js.org/apps/?rpc=wss://testnet.pontem.network/ws#/explorer))
+* [Aptos](https://github.com/aptos-labs) (in [devnet](https://aptos.dev/))
 * [Celo](https://github.com/celo-org) ([coming soon](https://www.businesswire.com/news/home/20210921006104/en/Celo-Sets-Sights-On-Becoming-Fastest-EVM-Chain-Through-Collaboration-With-Mysten-Labs))
 * [Diem](https://github.com/diem/diem)
 
