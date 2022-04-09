@@ -25,9 +25,9 @@ Move is a programming language for writing safe smart contracts originally devel
 * [Implementing, testing, and verifying a fungible token](https://github.com/diem/move/tree/main/language/documentation/tutorial). Maintained by the Move core team.
 
 # Community
-* [Move Language Discord](https://discord.gg/kRDkxyEt)
-* [Move @ Mysten Labs](https://discord.gg/yyYQcckG)
-* [Move @ 0L](https://discord.com/invite/Ry2cf4NrbS)
+* [Move @ Mysten Labs](https://discord.gg/M95qX3KnG8)
+* [Move Language Discord](https://discord.gg/9K7ca8Vnr7)
+* [Move @ 0L](https://discord.gg/zzXzhbE3aN)
 * [Move @ Starcoin](https://discord.gg/starcoin)
 
 # Code
