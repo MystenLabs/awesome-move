@@ -1,10 +1,10 @@
 # awesome-move
-Code and content from the [Move](https://github.com/diem/move) programming language community.
+Code and content from the [Move](https://github.com/move-language/move) programming language community.
 
-Move is a programming language for writing safe smart contracts originally developed at Facebook to power the Diem blockchain. Move is designed to be a platform-agnostic language to enable common libraries, tooling, and developer communities across diverse blockchains with vastly different data and execution models. Move's ambition is to become the "JavaScript of web3" in terms of ubiquity--when developers want to quickly write safe code involving assets, it should be written in Move.
+Move is a programming language for writing safe smart contracts originally developed at Facebook to power the Libra blockchain. Move is designed to be a platform-agnostic language to enable common libraries, tooling, and developer communities across diverse blockchains with vastly different data and execution models. Move's ambition is to become the "JavaScript of web3" in terms of ubiquity--when developers want to quickly write safe code involving assets, it should be written in Move.
 
 # Overview
-* [Installation](https://github.com/diem/move/tree/main/language/tools/move-cli#installation)
+* [Installation](https://github.com/move-language/move/tree/main/language/tools/move-cli#installation)
 * [Problem Statement](docs/problem_statement.md)
 
 # Move-Powered Blockchains
@@ -15,14 +15,13 @@ Move is a programming language for writing safe smart contracts originally devel
 * [Pontem](https://github.com/pontem-network) (in [testnet](https://polkadot.js.org/apps/?rpc=wss://testnet.pontem.network/ws#/explorer))
 * [Aptos](https://github.com/aptos-labs) (in [devnet](https://aptos.dev/))
 * [Celo](https://github.com/celo-org) ([coming soon](https://www.businesswire.com/news/home/20210921006104/en/Celo-Sets-Sights-On-Becoming-Fastest-EVM-Chain-Through-Collaboration-With-Mysten-Labs))
-* [Diem](https://github.com/diem/diem)
 
 # Books
 * https://diem.github.io/move/. Maintained by the Move core team.
 * https://move-book.com/. Maintained by [@damirka](https://github.com/damirka).
 
 # Tutorials
-* [Implementing, testing, and verifying a fungible token](https://github.com/diem/move/tree/main/language/documentation/tutorial). Maintained by the Move core team.
+* [Implementing, testing, and verifying a fungible token](https://github.com/move-language/move/tree/main/language/documentation/tutorial). Maintained by the Move core team.
 
 # Community
 * [Move @ Mysten Labs](https://discord.gg/M95qX3KnG8)
@@ -33,7 +32,7 @@ Move is a programming language for writing safe smart contracts originally devel
 # Code
 
 ## Fungible Tokens
-* [BasicCoin](https://github.com/diem/move/tree/main/language/documentation/examples/experimental/basic-coin): a toy implementation of an [ERC20](https://ethereum.org/en/developers/docs/standards/tokens/erc-20/)-like fungible token.
+* [BasicCoin](https://github.com/move-language/move/tree/main/language/documentation/examples/experimental/basic-coin): a toy implementation of an [ERC20](https://ethereum.org/en/developers/docs/standards/tokens/erc-20/)-like fungible token.
 * [Diem](https://github.com/OLSF/libra/blob/main/language/diem-framework/modules/Diem.move): an ERC20-like token with permissioned minting/burning, see also this [spec](https://github.com/diem/dip/blob/main/dips/dip-20.md). Deployed on 0L.
 * [Token](https://github.com/starcoinorg/starcoin-framework/blob/main/sources/Token.move): another ERC20-like Token. Deployed on Starcoin.
 * [GAS](https://github.com/OLSF/libra/blob/main/language/diem-framework/modules/0L/GAS.move): a token that instantiates the Diem standard above. Deployed on 0L.
@@ -52,9 +51,9 @@ Move is a programming language for writing safe smart contracts originally devel
 * [NFTGallery](https://github.com/diem/diem/blob/main/diem-move/diem-framework/experimental/sources/NFTGallery.move): utility for holding multiple NFT's of the same type. From Diem.
 
 ### DeFi
-* [CoinSwap](https://github.com/diem/move/tree/main/language/documentation/examples/experimental/coin-swap) a toy implementation of a [Uniswap](https://uniswap.org/)-like liquidity pool containing two tokens.
+* [CoinSwap](https://github.com/move-language/move/tree/main/language/documentation/examples/experimental/coin-swap) a toy implementation of a [Uniswap](https://uniswap.org/)-like liquidity pool containing two tokens.
 * [StarSwap](https://github.com/Elements-Studio/starswap-core): a Uniswap-style DEX. Deployed on Starcoin.
-* [Offer](https://github.com/diem/move/blob/main/language/move-stdlib/nursery/sources/Offer.move): generic implementation of atomic swaps for any pair of assets. 
+* [Offer](https://github.com/move-language/move/blob/main/language/move-stdlib/nursery/sources/Offer.move): generic implementation of atomic swaps for any pair of assets. 
 
 ### On-Chain Governance
 * [ValidatorUniverse](https://github.com/OLSF/libra/blob/main/language/diem-framework/modules/0L/ValidatorUniverse.move): validator set management. Deployed on 0L.
@@ -79,25 +78,25 @@ The ability to separate blockchain-specific framework logic from the generic fun
 * [Starcoin Framework](https://github.com/starcoinorg/starcoin-framework)
 
 ### Libraries
-* [Move standard library](https://github.com/diem/move/tree/main/language/move-stdlib): utilities intended (but not required) to be used in every platform running Move. From the Move repo.
-* [Move nursery](https://github.com/diem/move/tree/main/language/move-stdlib/nursery): experimental modules that may eventually be promoted into the standard library. From the Move repo.
+* [Move standard library](https://github.com/move-language/move/tree/main/language/move-stdlib): utilities intended (but not required) to be used in every platform running Move. From the Move repo.
+* [Move nursery](https://github.com/move-language/move/tree/main/language/move-stdlib/nursery): experimental modules that may eventually be promoted into the standard library. From the Move repo.
 * [Decimal](https://github.com/OLSF/libra/blob/main/language/diem-framework/modules/0L/Decimal.move): efficient implementation of a decimal value. From 0L.
 * [Math](https://github.com/starcoinorg/starcoin-framework/blob/main/sources/Math.move): math utility functions. From Starcoin.
-* [Compare](https://github.com/diem/move/blob/main/language/move-stdlib/nursery/sources/Compare.move): polymorphic comparison (i.e., compare any two Move values of the same type). From the nursery.
-* [Vault](https://github.com/diem/move/blob/main/language/move-stdlib/nursery/sources/Vault.move) and [ACL](https://github.com/diem/move/blob/main/language/move-stdlib/nursery/sources/ACL.move): libraries for capability and list-based acess control. From the nursery.
+* [Compare](https://github.com/move-language/move/blob/main/language/move-stdlib/nursery/sources/Compare.move): polymorphic comparison (i.e., compare any two Move values of the same type). From the nursery.
+* [Vault](https://github.com/move-language/move/blob/main/language/move-stdlib/nursery/sources/Vault.move) and [ACL](https://github.com/move-language/move/blob/main/language/move-stdlib/nursery/sources/ACL.move): libraries for capability and list-based acess control. From the nursery.
 * [TaoHe](https://github.com/taoheorg/taohe): a collection of nestable Move resources.
 * [Starcoin Framework Commons](https://github.com/starcoinorg/starcoin-framework-commons): libraries for Move commons utility on starcoin-framework. From Starcoin.
 
 ### Miscellaneous
-* [Experimental](https://github.com/diem/move/tree/main/language/evm/examples) project to compile Move source code to EVM bytecode.
+* [Experimental](https://github.com/move-language/move/tree/main/language/evm/examples) project to compile Move source code to EVM bytecode.
 
 # Tools
-* [Move Package Manager](https://github.com/diem/move/tree/main/language/tools/move-cli). Like `cargo` or `npm` for Move: single CLI (and corresponding Rust API's for other tools to hook into) for building, running, testing, debugging, and verifying Move [packages](https://diem.github.io/move/packages.html). Maintained by the Move core team.
-* [Move Prover](https://github.com/diem/move/tree/main/language/move-prover). Formal verification of user-defined specifications written in Move source code. Maintained by the Move core team.
-* [Move Read/Write Set Analyzer](https://github.com/diem/move/tree/main/language/tools/read-write-set). Static analysis tool for computing an overapproximation of the global memory touched by a Move program. Maintained by the Move core team.
+* [Move Package Manager](https://github.com/move-language/move/tree/main/language/tools/move-cli). Like `cargo` or `npm` for Move: single CLI (and corresponding Rust API's for other tools to hook into) for building, running, testing, debugging, and verifying Move [packages](https://diem.github.io/move/packages.html). Maintained by the Move core team.
+* [Move Prover](https://github.com/move-language/move/tree/main/language/move-prover). Formal verification of user-defined specifications written in Move source code. Maintained by the Move core team.
+* [Move Read/Write Set Analyzer](https://github.com/move-language/move/tree/main/language/tools/read-write-set). Static analysis tool for computing an overapproximation of the global memory touched by a Move program. Maintained by the Move core team.
 
 # IDE's
-* Move vscode plugin ([install](https://marketplace.visualstudio.com/items?itemName=move.move-analyzer), [source code](https://github.com/diem/move/tree/main/language/move-analyzer)). Maintained by the Move core team.
+* Move vscode plugin ([install](https://marketplace.visualstudio.com/items?itemName=move.move-analyzer), [source code](https://github.com/move-language/move/tree/main/language/move-analyzer)). Maintained by the Move core team.
 * Move syntax vscode plugin: context-based Move syntax highlighting ([install](https://marketplace.visualstudio.com/items?itemName=damirka.move-syntax), [source code](https://github.com/damirka/vscode-move-syntax)). Maintained by [@damirka](https://github.com/damirka).
 * Move IntelliJ plugin ([install](https://plugins.jetbrains.com/plugin/14721-move-language), [source code](https://github.com/pontem-network/intellij-move))
 * [Move Playground](https://playground.pontem.network/), [instructions](https://gist.github.com/borispovod/64b6d23741d8c1f4b0b958a3a74aa68d). Like [Remix](https://remix.ethereum.org/) for Move--alpha version of a Web IDE. Maintained by the Pontem team.
