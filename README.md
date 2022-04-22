@@ -88,7 +88,7 @@ The ability to separate blockchain-specific framework logic from the generic fun
 * [Starcoin Framework Commons](https://github.com/starcoinorg/starcoin-framework-commons): libraries for Move commons utility on starcoin-framework. From Starcoin.
 
 ### Miscellaneous
-* [Experimental](https://github.com/move-language/move/tree/main/language/evm/examples) project to compile Move source code to EVM bytecode.
+* [Experimental](https://github.com/move-language/move/tree/main/language/evm/examples) examples for the project to compile Move source code to EVM bytecode.
 
 # Tools
 * [Move Package Manager](https://github.com/move-language/move/tree/main/language/tools/move-cli). Like `cargo` or `npm` for Move: single CLI (and corresponding Rust API's for other tools to hook into) for building, running, testing, debugging, and verifying Move [packages](https://diem.github.io/move/packages.html). Maintained by the Move core team.
