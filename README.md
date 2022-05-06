@@ -35,7 +35,7 @@ Move is a programming language for writing safe smart contracts originally devel
 
 ## Move-Powered Blockchains
 
-- [Sui](https://github.com/MystenLabs/sui)
+- [Sui](https://github.com/MystenLabs/sui) (in [devnet](https://medium.com/mysten-labs/sui-devnet-public-release-a2be304ff36b))
 - [0L](https://github.com/OLSF/libra) (in [mainnet](https://0l.network/))
 - [Starcoin](https://github.com/starcoinorg/starcoin) (in [mainnet](https://stcscan.io/))
 - [Aptos](https://github.com/aptos-labs/aptos-core) (in [devnet](https://aptos.typeform.com/to/jwSOZbH6))
