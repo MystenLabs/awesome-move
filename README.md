@@ -154,6 +154,7 @@ The ability to separate blockchain-specific framework logic from the generic fun
 
 - [Move: A Language With Programmable Resources](https://developers.diem.com/papers/diem-move-a-language-with-programmable-resources/2019-06-18.pdf) - This was the original Move white paper released in 2018. Many aspects of this are now out of date (e.g., the syntax and description of the bytecode instructions), but the first two sections are worth a read for explaining the difficulties of programming with assets and how Move tackles them.
 - [Robust Safety for Move](https://arxiv.org/abs/2110.05043)
+- [The Move Borrow Checker](https://arxiv.org/abs/2205.05181)
 - [Resources: A Safe Language Abstraction for Money](https://arxiv.org/abs/2004.05106)
 
 ### Static Analysis and Verification
