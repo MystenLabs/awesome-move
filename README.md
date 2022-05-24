@@ -42,11 +42,10 @@ Move is a programming language for writing safe smart contracts originally devel
 - [Pontem](https://github.com/pontem-network) (in [testnet](https://polkadot.js.org/apps/?rpc=wss://testnet.pontem.network/ws#/explorer))
 - [Aptos](https://github.com/aptos-labs) (in [devnet](https://aptos.dev/))
 - [Celo](https://github.com/celo-org) ([coming soon](https://www.businesswire.com/news/home/20210921006104/en/Celo-Sets-Sights-On-Becoming-Fastest-EVM-Chain-Through-Collaboration-With-Mysten-Labs))
-- [Diem](https://github.com/diem/diem)
 
 ## Books
 
-- https://diem.github.io/move/ - Maintained by the Move core team.
+- https://move-language.github.io/move/ - Maintained by the Move core team.
 - https://move-book.com/ - Maintained by [@damirka](https://github.com/damirka).
 
 ## Tutorials
@@ -132,7 +131,7 @@ The ability to separate blockchain-specific framework logic from the generic fun
 
 ## Tools
 
-- [Move Package Manager](https://github.com/move-language/move/tree/main/language/tools/move-cli) - Like `cargo` or `npm` for Move: single CLI (and corresponding Rust API's for other tools to hook into) for building, running, testing, debugging, and verifying Move [packages](https://diem.github.io/move/packages.html). Maintained by the Move core team.
+- [Move Package Manager](https://github.com/move-language/move/tree/main/language/tools/move-cli) - Like `cargo` or `npm` for Move: single CLI (and corresponding Rust API's for other tools to hook into) for building, running, testing, debugging, and verifying Move [packages](https://move-language.github.io/move/). Maintained by the Move core team.
 - [Move Prover](https://github.com/move-language/move/tree/main/language/move-prover) - Formal verification of user-defined specifications written in Move source code. Maintained by the Move core team.
 - [Move Read/Write Set Analyzer](https://github.com/move-language/move/tree/main/language/tools/read-write-set) - Static analysis tool for computing an overapproximation of the global memory touched by a Move program. Maintained by the Move core team.
 
