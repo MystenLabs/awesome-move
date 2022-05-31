@@ -1,3 +1,4 @@
+<!--lint disable double-link-->
 # Awesome Move [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list of code and content from the [Move](https://github.com/move-language/move) programming language community.
@@ -31,21 +32,22 @@ Move is a programming language for writing safe smart contracts originally devel
 ## Overview
 
 - [Installation](https://github.com/move-language/move/tree/main/language/tools/move-cli#installation)
-- [Problem Statement](docs/problem_statement.md)
+- [Problem Statement](https://github.com/mystenlabs/awesome-move/blob/main/docs/problem_statement.md#problem-statement)
 
 ## Move-Powered Blockchains
 
-- [Sui](https://github.com/MystenLabs/sui) (in [devnet](https://medium.com/mysten-labs/sui-devnet-public-release-a2be304ff36b))
-- [0L](https://github.com/OLSF/libra) (in [mainnet](https://0l.network/))
-- [Starcoin](https://github.com/starcoinorg/starcoin) (in [mainnet](https://stcscan.io/))
-- [Pontem](https://github.com/pontem-network) (in [testnet](https://polkadot.js.org/apps/?rpc=wss://testnet.pontem.network/ws#/explorer))
-- [Aptos](https://github.com/aptos-labs) (in [testnet](https://aptos.dev/))
-- [Celo](https://github.com/celo-org) ([coming soon](https://www.businesswire.com/news/home/20210921006104/en/Celo-Sets-Sights-On-Becoming-Fastest-EVM-Chain-Through-Collaboration-With-Mysten-Labs))
+- [0L](https://github.com/OLSF/libra) - A reference implementation of a neutral replicated state machine. Forked from the Libra/Diem technologies. (in [mainnet](https://0l.network/))
+- [Pontem](https://github.com/pontem-network/pontem) - Substrate based parachain with Move VM onboard. (in [testnet](https://polkadot.js.org/apps/?rpc=wss://testnet.pontem.network/ws#/explorer))
+- [Starcoin](https://github.com/starcoinorg/starcoin) - A smart contract blockchain network that scales by layering. (in [mainnet](https://stcscan.io/))
+- [Aptos](https://github.com/aptos-labs/aptos-core) - Aptos-core strives towards being the safest and most scalable layer one blockchain solution. (in [testnet](https://aptos.dev/))
+- [Celo](https://github.com/celo-org/celo-blockchain) - Blockchain with EVM and MoveVM. ([coming soon](https://www.businesswire.com/news/home/20210921006104/en/Celo-Sets-Sights-On-Becoming-Fastest-EVM-Chain-Through-Collaboration-With-Mysten-Labs))
+- [Sui](https://github.com/MystenLabs/sui) - A next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language. (in [devnet](https://medium.com/mysten-labs/sui-devnet-public-release-a2be304ff36b))
+- [Diem](https://github.com/diem/diem) - The original Move based blockchain from Meta (form. Libra by Facebook). (discontinued)
 
 ## Books
 
-- https://move-language.github.io/move/ - Maintained by the Move core team.
-- https://move-book.com/ - Maintained by [@damirka](https://github.com/damirka).
+- [Move book](https://move-language.github.io/move/) - Move book maintained by the Move core team.
+- [Move book](https://move-book.com/) - Move book maintained by [@damirka](https://github.com/damirka).
 
 ## Tutorials
 
@@ -64,7 +66,7 @@ Code written in Move.
 
 ### Fungible Tokens
 
-- [Fungible token examples](https://github.com/MystenLabs/sui/tree/main/sui_programmability/examples/fungible_tokens). From Sui.
+- [Fungible token examples](https://github.com/MystenLabs/sui/tree/main/sui_programmability/examples/fungible_tokens) - Multiple example token implementations from Sui.
 - [BasicCoin](https://github.com/move-language/move/tree/main/language/documentation/examples/experimental/basic-coin) - A toy implementation of an [ERC20](https://ethereum.org/en/developers/docs/standards/tokens/erc-20/)-like fungible token.
 - [Diem](https://github.com/OLSF/libra/blob/main/language/diem-framework/modules/Diem.move) - An ERC20-like token with permissioned minting/burning, see also this [spec](https://github.com/diem/dip/blob/main/dips/dip-20.md). Deployed on 0L.
 - [Token](https://github.com/starcoinorg/starcoin-framework/blob/main/sources/Token.move) - Another ERC20-like Token. Deployed on Starcoin.
@@ -77,7 +79,7 @@ Code written in Move.
 
 ### Non-Fungible Tokens
 
-- [NFT examples](https://github.com/MystenLabs/sui/tree/main/sui_programmability/examples/nfts). From Sui.
+- [NFT examples](https://github.com/MystenLabs/sui/tree/main/sui_programmability/examples/nfts) - Multiple NFT example implementations from Sui.
 - [NFT](https://github.com/starcoinorg/starcoin-framework/blob/main/sources/NFT.move) - An ERC721-like token. Deployed on Starcoin.
 - [Merkle Airdrop](https://github.com/starcoinorg/starcoin-framework/blob/main/sources/MerkleNFT.move) - Utility for airdropping a large number of NFT's. Deployed on Starcoin.
 - [NFT](https://github.com/diem/diem/blob/main/diem-move/diem-framework/experimental/sources/NFT.move) - An implementation of a hybrid ERC721/ERC1155-like token. From Diem.
@@ -87,7 +89,7 @@ Code written in Move.
 
 ### DeFi
 
-- [DeFi examples](https://github.com/MystenLabs/sui/tree/main/sui_programmability/examples/defi). From Sui.
+- [DeFi examples](https://github.com/MystenLabs/sui/tree/main/sui_programmability/examples/defi) - Multiple DeFi example implementations from Sui.
 - [CoinSwap](https://github.com/move-language/move/tree/main/language/documentation/examples/experimental/coin-swap) - A toy implementation of a [Uniswap](https://uniswap.org/)-like liquidity pool containing two tokens.
 - [StarSwap](https://github.com/Elements-Studio/starswap-core) - A Uniswap-style DEX. Deployed on Starcoin.
 - [Offer](https://github.com/move-language/move/blob/main/language/move-stdlib/nursery/sources/Offer.move) - Generic implementation of atomic swaps for any pair of assets.
@@ -125,7 +127,8 @@ The ability to separate blockchain-specific framework logic from the generic fun
 - [Decimal](https://github.com/OLSF/libra/blob/main/language/diem-framework/modules/0L/Decimal.move) - Efficient implementation of a decimal value. From 0L.
 - [Math](https://github.com/starcoinorg/starcoin-framework/blob/main/sources/Math.move) - Math utility functions. From Starcoin.
 - [Compare](https://github.com/move-language/move/blob/main/language/move-stdlib/nursery/sources/Compare.move) - Polymorphic comparison (i.e., compare any two Move values of the same type). From the nursery.
-- [Vault](https://github.com/move-language/move/blob/main/language/move-stdlib/nursery/sources/Vault.move) and [ACL](https://github.com/move-language/move/blob/main/language/move-stdlib/nursery/sources/ACL.move) - Libraries for capability and list-based acess control. From the nursery.
+- [Vault](https://github.com/move-language/move/blob/main/language/move-stdlib/nursery/sources/Vault.move) - Library for capabilities. From the nursery.
+- [ACL](https://github.com/move-language/move/blob/main/language/move-stdlib/nursery/sources/ACL.move) - Library for list-based acess control. From the nursery.
 - [TaoHe](https://github.com/taoheorg/taohe) - A collection of nestable Move resources.
 - [Starcoin Framework Commons](https://github.com/starcoinorg/starcoin-framework-commons) - Libraries for Move commons utility on starcoin-framework. From Starcoin.
 
@@ -141,10 +144,10 @@ The ability to separate blockchain-specific framework logic from the generic fun
 
 ## IDEs
 
-- Move vscode plugin ([install](https://marketplace.visualstudio.com/items?itemName=move.move-analyzer), [source code](https://github.com/move-language/move/tree/main/language/move-analyzer)) - Maintained by the Move core team.
-- Move syntax vscode plugin: context-based Move syntax highlighting ([install](https://marketplace.visualstudio.com/items?itemName=damirka.move-syntax), [source code](https://github.com/damirka/vscode-move-syntax)) - Maintained by [@damirka](https://github.com/damirka).
-- Move IntelliJ plugin ([install](https://plugins.jetbrains.com/plugin/14721-move-language), [source code](https://github.com/pontem-network/intellij-move))
-- [Move Playground](https://playground.pontem.network/) - Like [Remix](https://remix.ethereum.org/) for Move--alpha version of a Web IDE. See [instructions](https://gist.github.com/borispovod/64b6d23741d8c1f4b0b958a3a74aa68d). Maintained by the Pontem team.
+- [Move VS Code plugin](https://marketplace.visualstudio.com/items?itemName=move.move-analyzer) - Maintained by the Move core team ([source code](https://github.com/move-language/move/tree/main/language/move-analyzer)).
+- [Move Syntax VS Code plugin](https://marketplace.visualstudio.com/items?itemName=damirka.move-syntax) - Context-based Move syntax highlighting, maintained by [@damirka](https://github.com/damirka) ([source code](https://github.com/damirka/vscode-move-syntax)).
+- [Move IntelliJ plugin](https://plugins.jetbrains.com/plugin/14721-move-language) - Maintained by the Pontem team ([source code](https://github.com/pontem-network/intellij-move)).
+- [Move Playground](https://playground.pontem.network/) - Like [Remix](https://remix.ethereum.org/) for Move. Alpha version of a Web IDE. See [instructions](https://gist.github.com/borispovod/64b6d23741d8c1f4b0b958a3a74aa68d). Maintained by the Pontem team.
 
 ## Wallets
 
