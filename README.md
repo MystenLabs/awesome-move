@@ -92,7 +92,7 @@ Code written in Move.
 - [DeFi examples](https://github.com/MystenLabs/sui/tree/main/sui_programmability/examples/defi) - Multiple DeFi example implementations from Sui.
 - [CoinSwap](https://github.com/move-language/move/tree/main/language/documentation/examples/experimental/coin-swap) - A toy implementation of a [Uniswap](https://uniswap.org/)-like liquidity pool containing two tokens.
 - [StarSwap](https://github.com/Elements-Studio/starswap-core) - A Uniswap-style DEX. Deployed on Starcoin.
-- [Offer](https://github.com/move-language/move/blob/main/language/move-stdlib/nursery/sources/Offer.move) - Generic implementation of atomic swaps for any pair of assets.
+- [Offer](https://github.com/move-language/move/blob/main/language/move-stdlib/nursery/sources/offer.move) - Generic implementation of atomic swaps for any pair of assets.
 
 ### On-Chain Governance
 
@@ -126,9 +126,9 @@ The ability to separate blockchain-specific framework logic from the generic fun
 - [Move nursery](https://github.com/move-language/move/tree/main/language/move-stdlib/nursery) - Experimental modules that may eventually be promoted into the standard library. From the Move repo.
 - [Decimal](https://github.com/OLSF/libra/blob/main/language/diem-framework/modules/0L/Decimal.move) - Efficient implementation of a decimal value. From 0L.
 - [Math](https://github.com/starcoinorg/starcoin-framework/blob/main/sources/Math.move) - Math utility functions. From Starcoin.
-- [Compare](https://github.com/move-language/move/blob/main/language/move-stdlib/nursery/sources/Compare.move) - Polymorphic comparison (i.e., compare any two Move values of the same type). From the nursery.
-- [Vault](https://github.com/move-language/move/blob/main/language/move-stdlib/nursery/sources/Vault.move) - Library for capabilities. From the nursery.
-- [ACL](https://github.com/move-language/move/blob/main/language/move-stdlib/nursery/sources/ACL.move) - Library for list-based acess control. From the nursery.
+- [Compare](https://github.com/move-language/move/blob/main/language/move-stdlib/nursery/sources/compare.move) - Polymorphic comparison (i.e., compare any two Move values of the same type). From the nursery.
+- [Vault](https://github.com/move-language/move/blob/main/language/move-stdlib/nursery/sources/vault.move) - Library for capabilities. From the nursery.
+- [ACL](https://github.com/move-language/move/blob/main/language/move-stdlib/nursery/sources/acl.move) - Library for list-based acess control. From the nursery.
 - [TaoHe](https://github.com/taoheorg/taohe) - A collection of nestable Move resources.
 - [Starcoin Framework Commons](https://github.com/starcoinorg/starcoin-framework-commons) - Libraries for Move commons utility on starcoin-framework. From Starcoin.
 
