@@ -1,4 +1,4 @@
-name: Broken link check
+name: Broken link & linting check
 on: [push]
 
 jobs:
@@ -18,3 +18,13 @@ jobs:
         recursiveLinks: false # Check all URLs on all reachable pages (could take a while)
     - name: Get the result
       run: echo "${{steps.link-report.outputs.result}}"
+
+  awesome_lint_job:
+    runs-on: ubuntu-latest
+    name: Awesome list lint check
+    steps:
+    - uses: actions/checkout@v2.4.0
+      with:
+        fetch-depth: 0
+    - name: Run awesome-lint 
+      run: npx awesome-lint
