@@ -36,12 +36,12 @@ Move is a programming language for writing safe smart contracts originally devel
 
 ## Move-Powered Blockchains
 
+- [Sui](https://github.com/MystenLabs/sui) - A next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language. (in [devnet](https://medium.com/mysten-labs/sui-devnet-public-release-a2be304ff36b))
 - [0L](https://github.com/OLSF/libra) - A reference implementation of a neutral replicated state machine. Forked from the Libra/Diem technologies. (in [mainnet](https://0l.network/))
-- [Pontem](https://github.com/pontem-network/pontem) - Substrate based parachain with Move VM onboard. (in [testnet](https://polkadot.js.org/apps/?rpc=wss://testnet.pontem.network/ws#/explorer))
 - [Starcoin](https://github.com/starcoinorg/starcoin) - A smart contract blockchain network that scales by layering. (in [mainnet](https://stcscan.io/))
 - [Aptos](https://github.com/aptos-labs/aptos-core) - Aptos-core strives towards being the safest and most scalable layer one blockchain solution. (in [testnet](https://aptos.dev/))
+- [Pontem](https://github.com/pontem-network/pontem) - Substrate based parachain with Move VM onboard. (in [testnet](https://polkadot.js.org/apps/?rpc=wss://testnet.pontem.network/ws#/explorer))
 - [Celo](https://github.com/celo-org/celo-blockchain) - Blockchain with EVM and MoveVM. ([coming soon](https://www.businesswire.com/news/home/20210921006104/en/Celo-Sets-Sights-On-Becoming-Fastest-EVM-Chain-Through-Collaboration-With-Mysten-Labs))
-- [Sui](https://github.com/MystenLabs/sui) - A next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language. (in [devnet](https://medium.com/mysten-labs/sui-devnet-public-release-a2be304ff36b))
 - [Diem](https://github.com/diem/diem) - The original Move based blockchain from Meta (form. Libra by Facebook). (discontinued)
 
 ## Books
@@ -52,6 +52,7 @@ Move is a programming language for writing safe smart contracts originally devel
 ## Tutorials
 
 - [Implementing, testing, and verifying a fungible token](https://github.com/move-language/move/tree/main/language/documentation/tutorial) - Maintained by the Move core team.
+- [Programming with objects](https://docs.sui.io/build/programming-with-objects) - Maintained by the Sui team.
 
 ## Community
 
@@ -145,9 +146,11 @@ The ability to separate blockchain-specific framework logic from the generic fun
 ## IDEs
 
 - [Move VS Code plugin](https://marketplace.visualstudio.com/items?itemName=move.move-analyzer) - Maintained by the Move core team ([source code](https://github.com/move-language/move/tree/main/language/move-analyzer)).
-- [Move Syntax VS Code plugin](https://marketplace.visualstudio.com/items?itemName=damirka.move-syntax) - Context-based Move syntax highlighting, maintained by [@damirka](https://github.com/damirka) ([source code](https://github.com/damirka/vscode-move-syntax)).
 - [Move IntelliJ plugin](https://plugins.jetbrains.com/plugin/14721-move-language) - Maintained by the Pontem team ([source code](https://github.com/pontem-network/intellij-move)).
 - [Move Playground](https://playground.pontem.network/) - Like [Remix](https://remix.ethereum.org/) for Move. Alpha version of a Web IDE. See [instructions](https://gist.github.com/borispovod/64b6d23741d8c1f4b0b958a3a74aa68d). Maintained by the Pontem team.
+
+## Package Managers
+- [Movey](https://www.movey.net/), a crates.io-style repository of Move packages
 
 ## Wallets
 
@@ -174,6 +177,11 @@ The ability to separate blockchain-specific framework logic from the generic fun
 
 - [Move: A Safe Language for Programming with Money](https://www.youtube.com/watch?v=EG2-7bQNPv4&ab_channel=FieldsInstitute) - Talk from [@sblackshear](https://github.com/sblackshear) at the [Fields Institute Blockchain](http://www.fields.utoronto.ca/activities/seminar_series/blockchain-research-seminar-series) research seminar series.
 - [Formal Verification of Move Programs for the Libra Blockchain](http://www.fields.utoronto.ca/talks/Formal-verification-Move-programs-Libra-blockchain) - Talk from [@DavidLDill](https://github.com/DavidLDill) at the [Fields Institute Blockchain](http://www.fields.utoronto.ca/activities/seminar_series/blockchain-research-seminar-series) research seminar series.
+
+## Podcasts
+
+- [Move and Sui with Sam Blackshear from Mysten Labs](https://zeroknowledge.fm/228-2/)
+- [Move AMA covering Move origin story](https://twitter.com/i/spaces/1jMKgepNOleJL)
 
 ## Contributing
 
