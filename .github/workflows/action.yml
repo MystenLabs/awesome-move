@@ -1,4 +1,4 @@
-name: Broken link check
+name: Broken link & linting check
 on: [push]
 
 jobs:
@@ -8,13 +8,23 @@ jobs:
     steps:
     - name: Check for broken links
       id: link-report
-      uses: celinekurpershoek/link-checker@v1.0.1
+      uses: celinekurpershoek/link-checker@37818c3d3586584d04f1a989ac23545adf7a9487
       with:
         # Required:
-        url: 'https://github.com/MystenLabs/awesome-move/blob/main/README.md'
+        url: "${{ github.server_url }}/${{ github.repository }}/blob/${{ github.ref_name }}/README.md"
         # optional:
         honorRobotExclusions: false
-        ignorePatterns: 'github,google'
+        ignorePatterns: "docs.github.com,visualstudio.com"
         recursiveLinks: false # Check all URLs on all reachable pages (could take a while)
     - name: Get the result
       run: echo "${{steps.link-report.outputs.result}}"
+
+  awesome_lint_job:
+    runs-on: ubuntu-latest
+    name: Awesome list lint check
+    steps:
+    - uses: actions/checkout@v2.4.0
+      with:
+        fetch-depth: 0
+    - name: Run awesome-lint 
+      run: npx awesome-lint
