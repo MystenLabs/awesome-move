@@ -23,11 +23,13 @@ Move is a programming language for writing safe smart contracts originally devel
   - [Miscellaneous](#miscellaneous)
 - [Tools](#tools)
 - [IDEs](#ides)
+- [Package Managers](#package-managers)
 - [Wallets](#wallets)
 - [Papers](#papers)
   - [Language Design](#language-design)
   - [Static Analysis and Verification](#static-analysis-and-verification)
 - [Videos](#videos)
+- [Podcasts](#podcasts)
 
 ## Overview
 
@@ -150,7 +152,7 @@ The ability to separate blockchain-specific framework logic from the generic fun
 - [Move Playground](https://playground.pontem.network/) - Like [Remix](https://remix.ethereum.org/) for Move. Alpha version of a Web IDE. See [instructions](https://gist.github.com/borispovod/64b6d23741d8c1f4b0b958a3a74aa68d). Maintained by the Pontem team.
 
 ## Package Managers
-- [Movey](https://www.movey.net/), a crates.io-style repository of Move packages
+- [Movey](https://www.movey.net/) - A [crates.io](https://crates.io/)-style repository of Move packages.
 
 ## Wallets
 
