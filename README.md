@@ -50,11 +50,13 @@ Move is a programming language for writing safe smart contracts originally devel
 
 - [Move book](https://move-language.github.io/move/) - Move book maintained by the Move core team.
 - [Move book](https://move-book.com/) - Move book maintained by [@damirka](https://github.com/damirka).
+- [Move book (Chinese version)](https://move-book.com/cn/) - Translated by [Starcoin team](https://starcoin.org/).
 
 ## Tutorials
 
 - [Implementing, testing, and verifying a fungible token](https://github.com/move-language/move/tree/main/language/documentation/tutorial) - Maintained by the Move core team.
 - [Programming with objects](https://docs.sui.io/build/programming-with-objects) - Maintained by the Sui team.
+- [Move and SmartContract Development](https://starcoinorg.github.io/starcoin-cookbook/docs/move/) - Maintained by the Starcoin team.
 
 ## Community
 
@@ -75,8 +77,11 @@ Code written in Move.
 - [Token](https://github.com/starcoinorg/starcoin-framework/blob/main/sources/Token.move) - Another ERC20-like Token. Deployed on Starcoin.
 - [GAS](https://github.com/OLSF/libra/blob/main/language/diem-framework/modules/0L/GAS.move) - A token that instantiates the Diem standard above. Deployed on 0L.
 - [STC](https://github.com/starcoinorg/starcoin-framework/blob/main/sources/STC.move) - A token that instantiates the Starcoin standard above. Deployed on Starcoin.
+- [STAR](https://github.com/Elements-Studio/starswap-core/blob/master/sources/gov/STAR.move) - A governance token of Starswap dApp that powers the AMM+DEX ecosystem. Deployed on Starcoin.
+- [XUSDT](https://github.com/Elements-Studio/poly-stc-contracts/blob/master/src/modules/asset/erc20/XUSDT.move) - A mapped assets of USDT on Starcoin.
+- [XETH](https://github.com/Elements-Studio/poly-stc-contracts/blob/master/src/modules/asset/erc20/XETH.move) - A mapped assets of ETH on Starcoin.
 - [WEN stablecoin](https://github.com/wenwenprotocol/wen-protocol) - Deployed on Starcoin.
-- [FAI stablecoin](https://github.com/BFlyFinance/FAI) - Deployed on Starcoin.
+- [FAI stablecoin](https://github.com/BFlyFinance/FAI) - An algorithm based stable coin deployed on Starcoin.
 - [FLY stablecoin](https://github.com/BFlyFinance/FLY) - A fork of [Ohm](https://www.olympusdao.finance/) implemented in Move. Deployed on Starcoin.
 - [Synthetic token backed by a basket containing a reserve of other tokens](https://github.com/OLSF/libra/blob/main/language/diem-framework/modules/XDX.move) - From Diem.
 
@@ -94,8 +99,13 @@ Code written in Move.
 
 - [DeFi examples](https://github.com/MystenLabs/sui/tree/main/sui_programmability/examples/defi) - Multiple DeFi example implementations from Sui.
 - [CoinSwap](https://github.com/move-language/move/tree/main/language/documentation/examples/experimental/coin-swap) - A toy implementation of a [Uniswap](https://uniswap.org/)-like liquidity pool containing two tokens.
-- [StarSwap](https://github.com/Elements-Studio/starswap-core) - A Uniswap-style DEX. Deployed on Starcoin.
+- [Starswap](https://github.com/Elements-Studio/starswap-core) - A Uniswap-style DEX. Deployed on Starcoin.
+- [Aswap](https://github.com/aswapLabs/contract-core) - A protocol for trading and automated liquidity provision on Starcoin.
 - [Offer](https://github.com/move-language/move/blob/main/language/move-stdlib/nursery/sources/offer.move) - Generic implementation of atomic swaps for any pair of assets.
+
+### Cross-Chain Bridge
+
+- [Poly Bridge](https://bridge.poly.network) ([poly-stc-contracts](https://github.com/Elements-Studio/poly-stc-contracts)) - The first Cross-Chain Bridge between Move and EVM.Poly bridge cross chain Move support on Starcoin.
 
 ### On-Chain Governance
 
@@ -150,6 +160,7 @@ The ability to separate blockchain-specific framework logic from the generic fun
 - [Move VS Code plugin](https://marketplace.visualstudio.com/items?itemName=move.move-analyzer) - Maintained by the Move core team ([source code](https://github.com/move-language/move/tree/main/language/move-analyzer)).
 - [Move IntelliJ plugin](https://plugins.jetbrains.com/plugin/14721-move-language) - Maintained by the Pontem team ([source code](https://github.com/pontem-network/intellij-move)).
 - [Move Playground](https://playground.pontem.network/) - Like [Remix](https://remix.ethereum.org/) for Move. Alpha version of a Web IDE. See [instructions](https://gist.github.com/borispovod/64b6d23741d8c1f4b0b958a3a74aa68d). Maintained by the Pontem team.
+- [Starcoin IDE](https://marketplace.visualstudio.com/items?itemName=starcoinorg.starcoin-ide) - Maintained by the Starcoin team ([source code](https://github.com/starcoinorg/starcoin-ide)).
 
 ## Package Managers
 - [Movey](https://www.movey.net/) - A [crates.io](https://crates.io/)-style repository of Move packages.
@@ -157,6 +168,9 @@ The ability to separate blockchain-specific framework logic from the generic fun
 ## Wallets
 
 - StarMask ([install](https://chrome.google.com/webstore/detail/starmask/mfhbebgoclkghebffdldpobeajmbecfk?hl=en), [source code](https://github.com/starcoinorg/starmask-extension)) - A wallet for the Starcoin blockchain. Maintained by the Starcoin team.
+- Sui Wallet ([install](https://chrome.google.com/webstore/detail/sui-wallet/opcgpfmipidbgpenhmajoajpbobppdil), [source code](https://github.com/MystenLabs/sui/tree/main/wallet)) - A chrome (v88+) extension wallet for Sui.
+- [MultiMask](https://github.com/pontem-network/aptos-chrome-extension) - Wallet extension for Aptos network by the Pontem team.
+- [Fewcha Aptos Wallet](https://github.com/fewcha-wallet/fewcha.app) - The wallet of layer 1 blockchain Aptos.
 - [bcs-js](https://github.com/pontem-network/lcs-js) - JavaScript implementation of the [BCS](https://github.com/diem/bcs) serialization scheme used by Move, may be useful for implementing wallets.
 
 ## Papers
