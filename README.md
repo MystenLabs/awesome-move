@@ -150,7 +150,7 @@ The ability to separate blockchain-specific framework logic from the generic fun
 - [Move VS Code plugin](https://marketplace.visualstudio.com/items?itemName=move.move-analyzer) - Maintained by the Move core team ([source code](https://github.com/move-language/move/tree/main/language/move-analyzer)).
 - [Move IntelliJ plugin](https://plugins.jetbrains.com/plugin/14721-move-language) - Maintained by the Pontem team ([source code](https://github.com/pontem-network/intellij-move)).
 - [Move Playground](https://playground.pontem.network/) - Like [Remix](https://remix.ethereum.org/) for Move. Alpha version of a Web IDE. See [instructions](https://gist.github.com/borispovod/64b6d23741d8c1f4b0b958a3a74aa68d). Maintained by the Pontem team.
-- [Move Vim](https://github.com/rvmelkonian/move.vim) - Maintined by @rvmelkonian
+- [Move Vim](https://github.com/rvmelkonian/move.vim) - Maintained by @rvmelkonian.
 
 ## Package Managers
 - [Movey](https://www.movey.net/) - A [crates.io](https://crates.io/)-style repository of Move packages.
