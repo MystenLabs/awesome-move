@@ -77,7 +77,6 @@ Code written in Move.
 - [STC](https://github.com/starcoinorg/starcoin-framework/blob/main/sources/STC.move) - A token that instantiates the Starcoin standard above. Deployed on Starcoin.
 - [WEN stablecoin](https://github.com/wenwenprotocol/wen-protocol) - Deployed on Starcoin.
 - [FAI stablecoin](https://github.com/BFlyFinance/FAI) - Deployed on Starcoin.
-- [FLY stablecoin](https://github.com/BFlyFinance/FLY) - A fork of [Ohm](https://www.olympusdao.finance/) implemented in Move. Deployed on Starcoin.
 - [Synthetic token backed by a basket containing a reserve of other tokens](https://github.com/OLSF/libra/blob/main/language/diem-framework/modules/XDX.move) - From Diem.
 
 ### Non-Fungible Tokens
@@ -152,7 +151,7 @@ The ability to separate blockchain-specific framework logic from the generic fun
 - [Move Playground](https://playground.pontem.network/) - Like [Remix](https://remix.ethereum.org/) for Move. Alpha version of a Web IDE. See [instructions](https://gist.github.com/borispovod/64b6d23741d8c1f4b0b958a3a74aa68d). Maintained by the Pontem team.
 
 ## Package Managers
-- [Movey](https://www.movey.net/) - A [crates.io](https://crates.io/)-style repository of Move packages.
+- [Movey](https://www.movey.net/) - A crates.io-style repository of Move packages.
 
 ## Wallets
 
