@@ -158,6 +158,7 @@ The ability to separate blockchain-specific framework logic from the generic fun
 
 - StarMask ([install](https://chrome.google.com/webstore/detail/starmask/mfhbebgoclkghebffdldpobeajmbecfk?hl=en), [source code](https://github.com/starcoinorg/starmask-extension)) - A wallet for the Starcoin blockchain. Maintained by the Starcoin team.
 - [bcs-js](https://github.com/pontem-network/lcs-js) - JavaScript implementation of the [BCS](https://github.com/diem/bcs) serialization scheme used by Move, may be useful for implementing wallets.
+- [ComingChat](https://coming.chat/) - A decentralized social finance/web3 portal.  Supporting diem public chain wallets, such as sui, aptos wallet.
 
 ## Papers
 
