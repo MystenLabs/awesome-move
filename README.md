@@ -81,7 +81,7 @@ Code written in Move.
 - [XUSDT](https://github.com/Elements-Studio/poly-stc-contracts/blob/master/src/modules/asset/erc20/XUSDT.move) - A mapped assets of USDT on Starcoin.
 - [XETH](https://github.com/Elements-Studio/poly-stc-contracts/blob/master/src/modules/asset/erc20/XETH.move) - A mapped assets of ETH on Starcoin.
 - [WEN stablecoin](https://github.com/wenwenprotocol/wen-protocol) - Deployed on Starcoin.
-- [FAI stablecoin](https://github.com/BFlyFinance/FAI) - An algorithm based stable coin deployed on Starcoin.
+- [FAI stablecoin](https://github.com/BFlyFinance/FAI) - An over-collateralized stable coin deployed on Starcoin.
 - [FLY stablecoin](https://github.com/BFlyFinance/FLY) - A fork of [Ohm](https://www.olympusdao.finance/) implemented in Move. Deployed on Starcoin.
 - [Synthetic token backed by a basket containing a reserve of other tokens](https://github.com/OLSF/libra/blob/main/language/diem-framework/modules/XDX.move) - From Diem.
 
@@ -147,7 +147,7 @@ The ability to separate blockchain-specific framework logic from the generic fun
 
 ### Miscellaneous
 
-- [Move-on-EVM](https://github.com/move-language/move/tree/main/language/evm/examples) - Experimental examples for the project to compile Move source code to EVM bytecode.
+- [Move-on-EVM](https://github.com/move-language/move/tree/main/language/evm) - Experimental project to compile Move source code to EVM bytecode.
 
 ## Tools
 
@@ -161,9 +161,10 @@ The ability to separate blockchain-specific framework logic from the generic fun
 - [Move IntelliJ plugin](https://plugins.jetbrains.com/plugin/14721-move-language) - Maintained by the Pontem team ([source code](https://github.com/pontem-network/intellij-move)).
 - [Move Playground](https://playground.pontem.network/) - Like [Remix](https://remix.ethereum.org/) for Move. Alpha version of a Web IDE. See [instructions](https://gist.github.com/borispovod/64b6d23741d8c1f4b0b958a3a74aa68d). Maintained by the Pontem team.
 - [Starcoin IDE](https://marketplace.visualstudio.com/items?itemName=starcoinorg.starcoin-ide) - Maintained by the Starcoin team ([source code](https://github.com/starcoinorg/starcoin-ide)).
+- [Move Vim](https://github.com/rvmelkonian/move.vim) - Maintained by @rvmelkonian.
 
 ## Package Managers
-- [Movey](https://www.movey.net/) - A [crates.io](https://crates.io/)-style repository of Move packages.
+- [Movey](https://www.movey.net/) - A crates.io-style repository of Move packages.
 
 ## Wallets
 
@@ -172,6 +173,7 @@ The ability to separate blockchain-specific framework logic from the generic fun
 - [MultiMask](https://github.com/pontem-network/aptos-chrome-extension) - Wallet extension for Aptos network by the Pontem team.
 - [Fewcha Aptos Wallet](https://github.com/fewcha-wallet/fewcha.app) - The wallet of layer 1 blockchain Aptos.
 - [bcs-js](https://github.com/pontem-network/lcs-js) - JavaScript implementation of the [BCS](https://github.com/diem/bcs) serialization scheme used by Move, may be useful for implementing wallets.
+- [ComingChat](https://coming.chat/) - A decentralized social finance/web3 portal.  Supporting diem public chain wallets, such as sui, aptos wallet.
 
 ## Papers
 
