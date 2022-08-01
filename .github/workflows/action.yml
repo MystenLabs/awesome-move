@@ -1,5 +1,9 @@
 name: Broken link & linting check
-on: [push]
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
 
 jobs:
   broken_link_checker_job:
@@ -11,7 +15,7 @@ jobs:
       uses: celinekurpershoek/link-checker@37818c3d3586584d04f1a989ac23545adf7a9487
       with:
         # Required:
-        url: "${{ github.server_url }}/${{ github.repository }}/blob/${{ github.ref_name }}/README.md"
+        url: "${{ github.server_url }}/${{ github.repository }}/blob/${{ github.sha }}/README.md"
         # optional:
         honorRobotExclusions: false
         ignorePatterns: "docs.github.com,visualstudio.com"
