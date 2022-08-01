@@ -95,7 +95,7 @@ Code written in Move.
 - [CoinSwap](https://github.com/move-language/move/tree/main/language/documentation/examples/experimental/coin-swap) - A toy implementation of a [Uniswap](https://uniswap.org/)-like liquidity pool containing two tokens.
 - [StarSwap](https://github.com/Elements-Studio/starswap-core) - A Uniswap-style DEX. Deployed on Starcoin.
 - [Offer](https://github.com/move-language/move/blob/main/language/move-stdlib/nursery/sources/offer.move) - Generic implementation of atomic swaps for any pair of assets.
-- [OmniBTC](https://www.omnibtc.finance/) - An omnichain financial platform for web3, including omnichain swap and BTC omnichain lending.
+- [OmniBTC](https://www.omnibtc.finance/) - A omnichain financial platform for web3, including omnichain swap and BTC omnichain lending.
 
 ### On-Chain Governance
 
