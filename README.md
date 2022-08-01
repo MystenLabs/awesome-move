@@ -136,7 +136,7 @@ The ability to separate blockchain-specific framework logic from the generic fun
 
 ### Miscellaneous
 
-- [Move-on-EVM](https://github.com/move-language/move/tree/main/language/evm/examples) - Experimental examples for the project to compile Move source code to EVM bytecode.
+- [Move-on-EVM](https://github.com/move-language/move/tree/main/language/evm) - Experimental project to compile Move source code to EVM bytecode.
 
 ## Tools
 
