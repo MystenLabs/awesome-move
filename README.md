@@ -82,7 +82,6 @@ Code written in Move.
 - [XETH](https://github.com/Elements-Studio/poly-stc-contracts/blob/master/src/modules/asset/erc20/XETH.move) - A mapped assets of ETH on Starcoin.
 - [WEN stablecoin](https://github.com/wenwenprotocol/wen-protocol) - Deployed on Starcoin.
 - [FAI stablecoin](https://github.com/BFlyFinance/FAI) - An over-collateralized stable coin deployed on Starcoin.
-- [FLY stablecoin](https://github.com/BFlyFinance/FLY) - A fork of [Ohm](https://www.olympusdao.finance/) implemented in Move. Deployed on Starcoin.
 - [Synthetic token backed by a basket containing a reserve of other tokens](https://github.com/OLSF/libra/blob/main/language/diem-framework/modules/XDX.move) - From Diem.
 
 ### Non-Fungible Tokens
