@@ -77,6 +77,7 @@ Code written in Move.
 - [STC](https://github.com/starcoinorg/starcoin-framework/blob/main/sources/STC.move) - A token that instantiates the Starcoin standard above. Deployed on Starcoin.
 - [WEN stablecoin](https://github.com/wenwenprotocol/wen-protocol) - Deployed on Starcoin.
 - [FAI stablecoin](https://github.com/BFlyFinance/FAI) - Deployed on Starcoin.
+- [FLY stablecoin](https://github.com/BFlyFinance/FLY) - An implementation of forked OHM that Deployed on Starcoin.
 - [Synthetic token backed by a basket containing a reserve of other tokens](https://github.com/OLSF/libra/blob/main/language/diem-framework/modules/XDX.move) - From Diem.
 
 ### Non-Fungible Tokens
