@@ -104,7 +104,7 @@ Code written in Move.
 
 ### Cross-Chain Bridge
 
-- [Poly Bridge](https://bridge.poly.network) ([poly-stc-contracts](https://github.com/Elements-Studio/poly-stc-contracts)) - The first Cross-Chain Bridge between Move and EVM.Poly bridge cross chain Move support on Starcoin.
+- [Poly Bridge](https://github.com/Elements-Studio/poly-stc-contracts) - The first Cross-Chain Bridge between Move and EVM. Deployed on Starcoin.
 
 ### On-Chain Governance
 
