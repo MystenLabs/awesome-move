@@ -48,8 +48,9 @@ Move is a programming language for writing safe smart contracts originally devel
 
 ## Books
 
-- [Move book](https://move-language.github.io/move/) - Move book maintained by the Move core team.
-- [Move book](https://move-book.com/) - Move book maintained by [@damirka](https://github.com/damirka).
+- [Move Book](https://move-language.github.io/move/) - Move book maintained by the Move core team ([中文](https://github.com/move-language/move/tree/main/language/documentation/book/translations/move-book-zh)).
+- [Move Book](https://move-book.com/) - Move book maintained by [@damirka](https://github.com/damirka) ([中文](https://move-book.com/cn/)).
+- [Move Patterns](https://www.move-patterns.com/) - A book on Move software design patterns maintained by [@villesundell](https://github.com/villesundell).
 
 ## Tutorials
 
