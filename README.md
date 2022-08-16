@@ -79,8 +79,8 @@ Code written in Move.
 - [GAS](https://github.com/OLSF/libra/blob/main/language/diem-framework/modules/0L/GAS.move) - A token that instantiates the Diem standard above. Deployed on 0L.
 - [STC](https://github.com/starcoinorg/starcoin-framework/blob/main/sources/STC.move) - A token that instantiates the Starcoin standard above. Deployed on Starcoin.
 - [STAR](https://github.com/Elements-Studio/starswap-core/blob/master/sources/gov/STAR.move) - A governance token of Starswap dApp that powers the AMM+DEX ecosystem. Deployed on Starcoin.
-- [XUSDT](https://github.com/Elements-Studio/poly-stc-contracts/blob/master/src/modules/asset/erc20/XUSDT.move) - A mapped assets of USDT on Starcoin.
-- [XETH](https://github.com/Elements-Studio/poly-stc-contracts/blob/master/src/modules/asset/erc20/XETH.move) - A mapped assets of ETH on Starcoin.
+- [XUSDT](https://github.com/Elements-Studio/poly-stc-contracts/blob/master/sources/asset/erc20/XUSDT.move) - A mapped assets of USDT on Starcoin.
+- [XETH](https://github.com/Elements-Studio/poly-stc-contracts/blob/master/sources/asset/erc20/XETH.move) - A mapped assets of ETH on Starcoin.
 - [WEN stablecoin](https://github.com/wenwenprotocol/wen-protocol) - Deployed on Starcoin.
 - [FAI stablecoin](https://github.com/BFlyFinance/FAI) - An over-collateralized stable coin deployed on Starcoin.
 - [FLY stablecoin](https://github.com/BFlyFinance/FLY) - An implementation of forked OHM that deployed on Starcoin.
