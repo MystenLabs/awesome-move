@@ -17,6 +17,7 @@ Move is a programming language for writing safe smart contracts originally devel
   - [Non-Fungible Tokens](#non-fungible-tokens)
   - [DeFi](#defi)
   - [On-Chain Governance](#on-chain-governance)
+  - [Cross-Chain Bridge](#cross-chain-bridge)
   - [Accounts](#accounts)
   - [Frameworks](#frameworks)
   - [Libraries](#libraries)
