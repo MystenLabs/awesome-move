@@ -6,10 +6,10 @@ As the list grows over time, we may do more curation by splitting some sections 
 
 However, we will always bias toward inclusion of anything a Move community member might find interesting or useful.
 
-## Pull Request Requirements and Guidelines
-Ensure your addition adheres to the following guidelines:
+## Pull Request Requirements
+Ensure your addition adheres to the following requirements:
 
-- **Use the following format**: `[project](link) - Description.`
+- **Use the following format**: `[project_name](link) - Description.`
 - Link should point to the GitHub repo, if applicable.
 - Descriptions should
   - be short and simple, but descriptive;
@@ -21,8 +21,9 @@ Ensure your addition adheres to the following guidelines:
 - Additions should be added to the bottom of the relevant category.
 - New categories or improvements to the existing categorization are welcome, but should be done in a separate pull request. **Remember to update the [`Contents`](README.md#contents) accordingly!**
 - Check your spelling and grammar.
+- Commit message should follow the format `Add project_name` (if using the GitHub Web UI, remember to change the default commit message).
 
-Thank you for your suggestion!
+Thank you for your addition!
 
 ## Updating Your Pull Request
 
