@@ -58,7 +58,7 @@ Move is a programming language for writing safe smart contracts originally devel
 - [Implementing, testing, and verifying a fungible token](https://github.com/move-language/move/tree/main/language/documentation/tutorial) - Maintained by the Move core team.
 - [Programming with objects](https://docs.sui.io/build/programming-with-objects) - Maintained by the Sui team.
 - [Move and SmartContract Development](https://starcoinorg.github.io/starcoin-cookbook/docs/move/) - Maintained by the Starcoin team.
-- [Learn Move Youtube Series] (https://youtube.com/playlist?list=PLCehwWkztHkJxLLleH1OXojVgldJ4OXoC) - by Entropy DAO
+- [Learn Move Youtube Series](https://youtube.com/playlist?list=PLCehwWkztHkJxLLleH1OXojVgldJ4OXoC) - by Entropy DAO
 
 ## Community
 
