@@ -154,6 +154,7 @@ The ability to separate blockchain-specific framework logic from the generic fun
 
 ## Tools
 
+- [Move Cron Parser](https://github.com/snowflake-so/move-cron-parser) - Like `cron-parser` library in Javascript. This library is built for a purpose of parsing cron expression, which can be helpful for cron scheduler app or automating task on blockchains built with Move. Maintained by Snowflake Network team.
 - [Move Package Manager](https://github.com/move-language/move/tree/main/language/tools/move-cli) - Like `cargo` or `npm` for Move: single CLI (and corresponding Rust API's for other tools to hook into) for building, running, testing, debugging, and verifying Move [packages](https://move-language.github.io/move/). Maintained by the Move core team.
 - [Move Prover](https://github.com/move-language/move/tree/main/language/move-prover) - Formal verification of user-defined specifications written in Move source code. Maintained by the Move core team.
 - [Move Read/Write Set Analyzer](https://github.com/move-language/move/tree/main/language/tools/read-write-set) - Static analysis tool for computing an overapproximation of the global memory touched by a Move program. Maintained by the Move core team.
