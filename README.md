@@ -204,6 +204,10 @@ The ability to separate blockchain-specific framework logic from the generic fun
 - [Move and Sui with Sam Blackshear from Mysten Labs](https://zeroknowledge.fm/228-2/)
 - [Move AMA covering Move origin story](https://twitter.com/i/spaces/1jMKgepNOleJL)
 
+## Blog posts
+- [Comparing Move and Rust smart contract development](https://medium.com/@kklas/smart-contract-development-move-vs-rust-4d8f84754a8f)
+- [Comparing Diem-style Move and Sui Move](https://sui.io/resources-move/why-we-created-sui-move)
+
 ## Contributing
 
 Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
