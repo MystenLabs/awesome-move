@@ -148,6 +148,7 @@ The ability to separate blockchain-specific framework logic from the generic fun
 - [TaoHe](https://github.com/taoheorg/taohe) - A collection of nestable Move resources.
 - [Starcoin Framework Commons](https://github.com/starcoinorg/starcoin-framework-commons) - Libraries for Move commons utility on starcoin-framework. From Starcoin.
 - [Movemate](https://github.com/pentagonxyz/movemate) - Smart contract building blocks for Aptos and Sui (Math utilities, governance contracts, escrow, and more). Maintained by the Pentagon team.
+- [Move cron parser](https://github.com/snowflake-so/move-cron-parser#readme) - Library is built for a purpose of parsing cron expression. Maintained by Snowflake Network team.
 
 ### Miscellaneous
 
