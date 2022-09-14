@@ -26,6 +26,7 @@ Move is a programming language for writing safe smart contracts originally devel
 - [IDEs](#ides)
 - [Package Managers](#package-managers)
 - [Wallets](#wallets)
+- [SDKs](#sdks)
 - [Papers](#papers)
   - [Language Design](#language-design)
   - [Static Analysis and Verification](#static-analysis-and-verification)
@@ -179,6 +180,10 @@ The ability to separate blockchain-specific framework logic from the generic fun
 - [Fewcha Aptos Wallet](https://github.com/fewcha-wallet/fewcha.app) - The wallet of layer 1 blockchain Aptos ([Chrome Webstore](https://chrome.google.com/webstore/detail/fewcha-aptos-wallet/ebfidpplhabeedpnhjnobghokpiioolj)).
 - [bcs-js](https://github.com/pontem-network/lcs-js) - JavaScript implementation of the [BCS](https://github.com/diem/bcs) serialization scheme used by Move, may be useful for implementing wallets.
 - [ComingChat](https://coming.chat/) - A decentralized social finance/web3 portal.  Supporting public chain wallets, such as Sui and Aptos wallets.
+
+## SDKs
+- [go-sui-sdk](https://github.com/coming-chat/go-sui-sdk) - Sui Golang SDK.
+- [go-aptos-sdk](https://github.com/coming-chat/go-aptos-sdk) - Aptos Golang SDK.
 
 ## Papers
 
