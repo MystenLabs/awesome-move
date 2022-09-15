@@ -48,7 +48,7 @@ Move is a programming language for writing safe smart contracts originally devel
 - [Pontem](https://github.com/pontem-network/pontem) - Substrate based parachain with MoveVM onboard (in [testnet](https://polkadot.js.org/apps/?rpc=wss://testnet.pontem.network/ws#/explorer)).
 - [Celo](https://github.com/celo-org/celo-blockchain) - Blockchain with EVM and MoveVM ([coming soon](https://www.businesswire.com/news/home/20210921006104/en/Celo-Sets-Sights-On-Becoming-Fastest-EVM-Chain-Through-Collaboration-With-Mysten-Labs)).
 - [Diem](https://github.com/diem/diem) - The original Move based blockchain from Meta (form. Libra by Facebook) (discontinued).
-- [ChainX](https://github.com/chainx-org/ChainX) - BTC's second-layer smart contract network has already supported WASM and EVM virtual machines, and is supporting MoveVM (in [mainnet](https://scan.chainx.org)).
+- [ChainX](https://github.com/chainx-org/ChainX) - Bitcoin's layer2 smart contract network has already supported WASM and EVM, and is supporting MoveVM (in [mainnet](https://scan.chainx.org)).
 
 ## Books
 
