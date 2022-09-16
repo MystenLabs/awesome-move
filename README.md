@@ -90,6 +90,7 @@ Code written in Move.
 - [FAI stablecoin](https://github.com/BFlyFinance/FAI) - An over-collateralized stable coin deployed on Starcoin.
 - [FLY stablecoin](https://github.com/BFlyFinance/FLY) - An implementation of forked OHM that deployed on Starcoin.
 - [Synthetic token backed by a basket containing a reserve of other tokens](https://github.com/OLSF/libra/blob/main/language/diem-framework/modules/XDX.move) - From Diem.
+- [XBTC](https://github.com/OmniBTC/OmniBridge/blob/main/aptos/bridge/sources/xbtc.move) - BTC mirror asset on Aptos.
 
 ### Non-Fungible Tokens
 
