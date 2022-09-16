@@ -184,6 +184,16 @@ The ability to separate blockchain-specific framework logic from the generic fun
 - [Fewcha Aptos Wallet](https://github.com/fewcha-wallet/fewcha.app) - The wallet of layer 1 blockchain Aptos ([Chrome Webstore](https://chrome.google.com/webstore/detail/fewcha-aptos-wallet/ebfidpplhabeedpnhjnobghokpiioolj)).
 - [bcs-js](https://github.com/pontem-network/lcs-js) - JavaScript implementation of the [BCS](https://github.com/diem/bcs) serialization scheme used by Move, may be useful for implementing wallets.
 - [ComingChat](https://coming.chat/) - A decentralized social finance/web3 portal.  Supporting public chain wallets, such as Sui and Aptos wallets.
+- [Suiet Wallet](https://github.com/suiet/suiet) - A open-source wallet for Sui. ([Website](https://suiet.app)) 
+
+### Wallet Adapters
+
+- [Sui Wallet](https://github.com/MystenLabs/sui/tree/main/wallet-adapter) - Sui Wallet Adapter.
+- [Suiet Wallet](https://github.com/suiet/wallet-adapter) - Suiet Wallet Adapter.
+
+### Wallet Kits
+
+- [Suiet Wallet Kit](https://github.com/suiet/wallet-kit) - A package support all Sui wallets with customizable UI.
 
 ## SDKs
 - [go-sui-sdk](https://github.com/coming-chat/go-sui-sdk) - Sui Golang SDK.
