@@ -179,10 +179,20 @@ The ability to separate blockchain-specific framework logic from the generic fun
 
 - [StarMask](https://github.com/starcoinorg/starmask-extension) - A wallet for the Starcoin blockchain. Maintained by the Starcoin team ([Chrome Webstore](https://chrome.google.com/webstore/detail/starmask/mfhbebgoclkghebffdldpobeajmbecfk?hl=en)).
 - [Sui Wallet](https://github.com/MystenLabs/sui/tree/main/wallet) - A chrome (v88+) extension wallet for Sui ([Chrome Webstore](https://chrome.google.com/webstore/detail/sui-wallet/opcgpfmipidbgpenhmajoajpbobppdil)).
+- [Suiet Wallet](https://github.com/suiet/suiet) - A open-source & well designed wallet for Sui. ([Website](https://suiet.app), [Chrome Webstore[Private Beta]](https://chrome.google.com/webstore/detail/suiet/khpkpbbcccdmmclmpigdgddabeilkdpd)) 
 - [Pontem Wallet](https://github.com/pontem-network/pontem-wallet) - Wallet extension for Aptos network by the Pontem team ([Chrome Webstore](https://chrome.google.com/webstore/detail/pontem-wallet/phkbamefinggmakgklpkljjmgibohnba)).
 - [Fewcha Aptos Wallet](https://github.com/fewcha-wallet/fewcha.app) - The wallet of layer 1 blockchain Aptos ([Chrome Webstore](https://chrome.google.com/webstore/detail/fewcha-aptos-wallet/ebfidpplhabeedpnhjnobghokpiioolj)).
 - [bcs-js](https://github.com/pontem-network/lcs-js) - JavaScript implementation of the [BCS](https://github.com/diem/bcs) serialization scheme used by Move, may be useful for implementing wallets.
 - [ComingChat](https://coming.chat/) - A decentralized social finance/web3 portal.  Supporting public chain wallets, such as Sui and Aptos wallets.
+
+### Wallet Adapters
+
+- [Sui Wallet](https://github.com/MystenLabs/sui/tree/main/wallet-adapter) - Sui Wallet Adapter.
+- [Suiet Wallet](https://github.com/suiet/wallet-adapter) - Suiet Wallet Adapter.
+
+### Wallet Kits
+
+- [Suiet Wallet Kit](https://github.com/suiet/wallet-kit) - Integrate all wallets on Sui with single package with customizable UI.
 
 ## SDKs
 - [go-sui-sdk](https://github.com/coming-chat/go-sui-sdk) - Sui Golang SDK.
