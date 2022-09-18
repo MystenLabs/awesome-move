@@ -101,6 +101,8 @@ Code written in Move.
 - [BARS](https://github.com/diem/diem/blob/main/diem-move/diem-framework/experimental/sources/BARS.move) - An NFT that instantiates this hybrid standard. From Diem.
 - [MultiToken](https://github.com/diem/diem/blob/main/diem-move/diem-framework/experimental/sources/MultiToken.move) - An ERC1155-like token. From Diem.
 - [NFTGallery](https://github.com/diem/diem/blob/main/diem-move/diem-framework/experimental/sources/NFTGallery.move) - Utility for holding multiple NFT's of the same type. From Diem.
+- [NFT Protocol](https://github.com/Origin-Byte/nft-protocol) - NFT protocol and collection framework. From OriginByte.
+
 
 ### DeFi
 
