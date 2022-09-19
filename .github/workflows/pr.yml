@@ -1,0 +1,17 @@
+name: Linting check
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+jobs:
+  awesome_lint_job:
+    runs-on: ubuntu-latest
+    name: Awesome list lint check
+    steps:
+    - uses: actions/checkout@v2.4.0
+      with:
+        fetch-depth: 0
+    - name: Run awesome-lint 
+      run: npx awesome-lint
