@@ -91,6 +91,7 @@ Code written in Move.
 - [FLY stablecoin](https://github.com/BFlyFinance/FLY) - An implementation of forked OHM that deployed on Starcoin.
 - [Synthetic token backed by a basket containing a reserve of other tokens](https://github.com/OLSF/libra/blob/main/language/diem-framework/modules/XDX.move) - From Diem.
 - [XBTC](https://github.com/OmniBTC/OmniBridge/blob/main/aptos/bridge/sources/xbtc.move) - BTC mirror asset on Aptos.
+- [XBTC](https://github.com/OmniBTC/OmniBridge/blob/main/sui/bridge/sources/xbtc.move) - BTC mirror asset on Sui.
 
 ### Non-Fungible Tokens
 
