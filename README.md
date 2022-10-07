@@ -175,6 +175,7 @@ The ability to separate blockchain-specific framework logic from the generic fun
 - [Move Playground](https://playground.pontem.network/) - Like [Remix](https://remix.ethereum.org/) for Move. Alpha version of a Web IDE. See [instructions](https://gist.github.com/borispovod/64b6d23741d8c1f4b0b958a3a74aa68d). Maintained by the Pontem team.
 - [Starcoin IDE](https://marketplace.visualstudio.com/items?itemName=starcoinorg.starcoin-ide) - Maintained by the Starcoin team ([source code](https://github.com/starcoinorg/starcoin-ide)).
 - [Move Vim](https://github.com/rvmelkonian/move.vim) - Maintained by [@rvmelkonian](https://github.com/rvmelkonian/).
+- [move-mode](https://github.com/amnn/move-mode) for Emacs - Maintained by [@amnn](https://github.com/amnn/).
 
 ## Package Managers
 - [Movey](https://www.movey.net/) - A crates.io-style repository of Move packages.
