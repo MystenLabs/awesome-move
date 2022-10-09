@@ -113,6 +113,7 @@ Code written in Move.
 - [Offer](https://github.com/move-language/move/blob/main/language/move-stdlib/nursery/sources/offer.move) - Generic implementation of atomic swaps for any pair of assets.
 - [RedPacket](https://github.com/coming-chat/red-packet) - A red packet social app that combines private chat and encrypted wallet.
 - [AptosAMMswap](https://github.com/OmniBTC/Aptos-AMM-swap) - Aptos AMM Swap implemented by the OmniBTC team.
+- [SuiAMMswap](https://github.com/OmniBTC/Sui-AMM-swap) - Sui AMM Swap implemented by the OmniBTC team.
 
 ### On-Chain Governance
 
