@@ -114,6 +114,7 @@ Code written in Move.
 - [RedPacket](https://github.com/coming-chat/red-packet) - A red packet social app that combines private chat and encrypted wallet.
 - [AptosAMMswap](https://github.com/OmniBTC/Aptos-AMM-swap) - Aptos AMM Swap implemented by the OmniBTC team.
 - [SuiAMMswap](https://github.com/OmniBTC/Sui-AMM-swap) - Sui AMM Swap implemented by the OmniBTC team.
+- [OmniSwap](https://github.com/OmniBTC/OmniSwap) - A one-click swap protocol for any token between any chain implemented by the OmniBTC team based on the wormhole/layerzero cross-chain interoperability protocol.
 
 ### On-Chain Governance
 
