@@ -130,6 +130,7 @@ Code written in Move.
 ### Cross-Chain Bridge
 
 - [Poly Bridge](https://github.com/Elements-Studio/poly-stc-contracts) - The first Cross-Chain Bridge between Move and EVM. Deployed on Starcoin.
+- [OmniBTC Bridge](https://github.com/OmniBTC/OmniBridge) - A bridge between Bitcoin and Move language public chains (like Aptos and Sui) based on ultra-light node.
 
 ### Accounts
 
