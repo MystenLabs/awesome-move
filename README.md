@@ -33,6 +33,7 @@ Move is a programming language for writing safe smart contracts originally devel
 - [Videos](#videos)
 - [Podcasts](#podcasts)
 - [Blog Posts](#blog-posts)
+- [Security](#security)
 
 ## Overview
 
