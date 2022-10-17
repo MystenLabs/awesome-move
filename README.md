@@ -15,6 +15,7 @@ Move is a programming language for writing safe smart contracts originally devel
 - [Code](#code)
   - [Fungible Tokens](#fungible-tokens)
   - [Non-Fungible Tokens](#non-fungible-tokens)
+  - [Decentralized Identity](#decentralized-identity)
   - [DeFi](#defi)
   - [On-Chain Governance](#on-chain-governance)
   - [Cross-Chain Bridge](#cross-chain-bridge)
@@ -103,6 +104,9 @@ Code written in Move.
 - [MultiToken](https://github.com/diem/diem/blob/main/diem-move/diem-framework/experimental/sources/MultiToken.move) - An ERC1155-like token. From Diem.
 - [NFTGallery](https://github.com/diem/diem/blob/main/diem-move/diem-framework/experimental/sources/NFTGallery.move) - Utility for holding multiple NFT's of the same type. From Diem.
 - [NFT Protocol](https://github.com/Origin-Byte/nft-protocol) - NFT protocol and collection framework. From OriginByte.
+
+### Decentralized Identity
+- [aptos-cid](https://github.com/coming-chat/aptos-cid) - Decentralized identity on Aptos, the underlying account system of ComingChat.
 
 
 ### DeFi
