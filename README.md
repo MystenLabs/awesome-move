@@ -235,6 +235,7 @@ The ability to separate blockchain-specific framework logic from the generic fun
 ## Blog Posts
 - [Comparing Move and Rust smart contract development](https://medium.com/@kklas/smart-contract-development-move-vs-rust-4d8f84754a8f)
 - [Comparing Diem-style Move and Sui Move](https://sui.io/resources-move/why-we-created-sui-move)
+
 ## Security
 - [Aptos-movevm Denial of Service Vulnerability](https://medium.com/numen-cyber-labs/analysis-of-the-first-critical-0-day-vulnerability-of-aptos-move-vm-8c1fd6c2b98e)
 
