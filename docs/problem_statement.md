@@ -10,7 +10,7 @@ The decentralized web needs a lingua franca that will allow platform creators to
 2. **Smart contract languages aren't safe enough.**
 Multimillion dollar exploits are a [regular](https://rekt.news/) occurrence.
 Effective smart contract developers must be experts in both security and their product.
-Language design mistakes (e.g., re-entrancy, insufficient access control features, silent integer overflow) increase the attack surface for contracts, make audits expensive and slow, and frustrate the adoption of formal verification.
+Language design mistakes (e.g., [re-entrancy](https://consensys.github.io/smart-contract-best-practices/attacks/reentrancy/), insufficient access control features, [silent integer overflow](https://consensys.github.io/smart-contract-best-practices/attacks/insecure-arithmetic/)) increase the attack surface for contracts, make audits expensive and slow, and frustrate the adoption of formal verification.
 We believe that insufficient language safety is a serious barrier to both mainstream adoption of digital assets and accessible smart contract development.
 
 3. **Smart contract execution layers aren't fast.**
@@ -21,7 +21,7 @@ Insufficient throughput pushes gas prices to absurd levels and locks out users/u
 
 4. **Immature language ecosystems.**
 Languages do not provide features for contract composition, leading to [massive code duplication](http://www.ifca.ai/fc20/preproceedings/106.pdf) and wasting expensive on-chain storage.
-Conventional languages align on dedicated package managers (e.g., crates.io for Rust, npm for JavaScript pip for Python) for sharing/building code, releases, bug fixes, vulnerability disclosure, etc., but no such package manager exists for smart contract languages.
+Conventional languages align on dedicated package managers (e.g., crates.io for Rust, npm for JavaScript, pip for Python) for sharing/building code, releases, bug fixes, vulnerability disclosure, etc., but no such package manager exists for smart contract languages.
 Instead, developers manually copy/paste and tweak popular templates.
 This immaturity makes it difficult to build (and perhaps even more importantly) maintain large applications.
 
