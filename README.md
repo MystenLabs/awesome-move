@@ -116,7 +116,8 @@ Code written in Move.
 - [CoinSwap](https://github.com/move-language/move/tree/main/language/documentation/examples/experimental/coin-swap) - A toy implementation of a [Uniswap](https://uniswap.org/)-like liquidity pool containing two tokens.
 - [Starswap](https://github.com/Elements-Studio/starswap-core) - A Uniswap-style DEX. Deployed on Starcoin.
 - [Offer](https://github.com/move-language/move/blob/main/language/move-stdlib/nursery/sources/offer.move) - Generic implementation of atomic swaps for any pair of assets.
-- [RedPacket](https://github.com/coming-chat/red-packet) - A red packet social app that combines private chat and encrypted wallet.
+- [AptosRedPacket](https://github.com/coming-chat/aptos-red-packet) - A red packet social app that combines private chat and encrypted wallet on Aptos.
+- [SuiRedPacket](https://github.com/coming-chat/sui-red-packet) - A red packet social app that combines private chat and encrypted wallet on Sui.
 - [AptosAMMswap](https://github.com/OmniBTC/Aptos-AMM-swap) - Aptos AMM Swap implemented by the OmniBTC team.
 - [SuiAMMswap](https://github.com/OmniBTC/Sui-AMM-swap) - Sui AMM Swap implemented by the OmniBTC team.
 - [AptosOmniSwap](https://github.com/OmniBTC/OmniSwap/tree/main/aptos) - One-click swap between aptos and EVM chains (such as ETH/BSC/AVAX, etc.) based on the cross-chain interoperability protocol wormhole.
