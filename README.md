@@ -214,7 +214,7 @@ The ability to separate blockchain-specific framework logic from the generic fun
 
 ## API and Node Services
 
-- [blockeden.xyz](https://blockeden.xyz) - Aptos API and Node Service.
+- [blockeden.xyz](https://blockeden.xyz) - Aptos REST and GraphQL API service ([source code](https://github.com/BlockEdenHQ/web-blockeden-home)).
 
 ## Papers
 
