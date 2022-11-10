@@ -213,6 +213,7 @@ The ability to separate blockchain-specific framework logic from the generic fun
 ## SDKs
 - [go-sui-sdk](https://github.com/coming-chat/go-sui-sdk) - Sui Golang SDK.
 - [go-aptos-sdk](https://github.com/coming-chat/go-aptos-sdk) - Aptos Golang SDK.
+- [OmniSwap-Sui-SDK](https://github.com/OmniBTC/OmniSwap-Sui-SDK) - AMM Swap SDK on Sui Network.
 
 ## Papers
 
