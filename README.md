@@ -17,6 +17,7 @@ Move is a programming language for writing safe smart contracts originally devel
   - [Non-Fungible Tokens](#non-fungible-tokens)
   - [Decentralized Identity](#decentralized-identity)
   - [DeFi](#defi)
+  - [SocialFi](#socialfi)
   - [On-Chain Governance](#on-chain-governance)
   - [Cross-Chain Bridge](#cross-chain-bridge)
   - [Accounts](#accounts)
@@ -123,6 +124,9 @@ Code written in Move.
 - [AptosAMMswap](https://github.com/OmniBTC/Aptos-AMM-swap) - Aptos AMM Swap implemented by the OmniBTC team.
 - [SuiAMMswap](https://github.com/OmniBTC/Sui-AMM-swap) - Sui AMM Swap implemented by the OmniBTC team.
 - [AptosOmniSwap](https://github.com/OmniBTC/OmniSwap/tree/main/aptos) - One-click swap between aptos and EVM chains (such as ETH/BSC/AVAX, etc.) based on the cross-chain interoperability protocol wormhole.
+
+### SocialFi
+- [Dmens](https://github.com/coming-chat/Dmens) - Decentralized Moments which is a Blockchain Twitter Protocol built on the Sui network.
 
 ### On-Chain Governance
 
