@@ -212,7 +212,6 @@ The ability to separate blockchain-specific framework logic from the generic fun
 
 - [Sui Wallet](https://github.com/MystenLabs/sui/tree/main/sdk/wallet-adapter) - Sui Wallet Adapter.
 - [Suiet Wallet](https://github.com/suiet/wallet-adapter) - Suiet Wallet Adapter.
-- [Ethos Connect](https://github.com/EthosWallet/ethos-connect) - Wallet Adapter with buil-in wallet kit options (see below).
 
 ### Wallet Kits
 
