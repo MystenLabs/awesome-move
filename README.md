@@ -111,6 +111,7 @@ Code written in Move.
 
 ### Decentralized Identity
 - [aptos-cid](https://github.com/coming-chat/aptos-cid) - Decentralized identity on Aptos, the underlying account system of ComingChat.
+- [MoveDID](https://github.com/NonceGeek/MoveDID) - MoveDID is a DID protocol that compatible with Move-based blockchain networks, including Aptos, Sui, and Starcoin. Maintained by the [NonceGeek](https://github.com/NonceGeek).
 
 
 ### DeFi
