@@ -179,6 +179,7 @@ The ability to separate blockchain-specific framework logic from the generic fun
 ### Miscellaneous
 
 - [Move-on-EVM](https://github.com/move-language/move/tree/main/language/evm) - Experimental project to compile Move source code to EVM bytecode.
+- [aoc-move](https://github.com/whonore/aoc-move) - Advent of Code solutions in Move with some formal verification.
 
 ## Tools
 
