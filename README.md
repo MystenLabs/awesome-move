@@ -102,7 +102,7 @@ Code written in Move.
 
 ### Non-Fungible Tokens
 
-- [Your First NFT] - Create an NFT using one of the Aptos SDKs.
+- [Your First NFT](https://aptos.dev/tutorials/your-first-nft) - Create an NFT using one of the Aptos SDKs.
 - [NFT examples](https://github.com/MystenLabs/sui/tree/main/sui_programmability/examples/nfts) - Multiple NFT example implementations from Sui.
 - [NFT](https://github.com/starcoinorg/starcoin-framework/blob/main/sources/NFT.move) - An ERC721-like token. Deployed on Starcoin.
 - [Merkle Airdrop](https://github.com/starcoinorg/starcoin-framework/blob/main/sources/MerkleNFT.move) - Utility for airdropping a large number of NFTs. Deployed on Starcoin.
