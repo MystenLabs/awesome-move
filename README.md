@@ -205,6 +205,7 @@ The ability to separate blockchain-specific framework logic from the generic fun
 
 ## Wallets
 
+- [Petra Wallet](https://petra.app/) - The wallet for the Aptos layer 1 blockchain. Maintained by Aptos, which offers a [wallet standard](https://aptos.dev/guides/wallet-standard) and [installation instructions](https://aptos.dev/guides/install-petra-wallet-extension).
 - [StarMask](https://github.com/starcoinorg/starmask-extension) - A wallet for the Starcoin blockchain. Maintained by the Starcoin team ([Chrome Webstore](https://chrome.google.com/webstore/detail/starmask/mfhbebgoclkghebffdldpobeajmbecfk?hl=en)).
 - [Sui Wallet](https://github.com/MystenLabs/sui/tree/main/apps/wallet) - A chrome (v88+) extension wallet for Sui ([Chrome Webstore](https://chrome.google.com/webstore/detail/sui-wallet/opcgpfmipidbgpenhmajoajpbobppdil)).
 - [Pontem Wallet](https://github.com/pontem-network/pontem-wallet) - Wallet extension for Aptos network by the Pontem team ([Chrome Webstore](https://chrome.google.com/webstore/detail/pontem-wallet/phkbamefinggmakgklpkljjmgibohnba)).
@@ -215,6 +216,7 @@ The ability to separate blockchain-specific framework logic from the generic fun
 
 ### Wallet Adapters
 
+- [Aptos Wallet Adapter](https://aptos.dev/concepts/wallet-adapter-concept) - Aptos Wallet Adapter with instructions for builders of [dapps](https://aptos.dev/guides/wallet-adapter-for-dapp) and [wallets](https://aptos.dev/guides/wallet-adapter-for-wallets).
 - [Sui Wallet](https://github.com/MystenLabs/sui/tree/main/sdk/wallet-adapter) - Sui Wallet Adapter.
 - [Suiet Wallet](https://github.com/suiet/wallet-adapter) - Suiet Wallet Adapter.
 
