@@ -68,7 +68,7 @@ Move is a programming language for writing safe smart contracts originally devel
 
 ## Community
 
-- [Move Language Discord](https://discord.gg/9K7ca8Vnr7)
+- [Move Language Discord](https://discord.gg/cPUmhe24Mz)
 - [Move @ Sui by Mysten Labs Discord](https://discord.gg/sui)
 - [Move @ 0L Discord](https://discord.gg/0lnetwork)
 - [Move @ Starcoin Discord](https://discord.gg/starcoin)
