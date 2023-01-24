@@ -44,7 +44,7 @@ Move is a programming language for writing safe smart contracts originally devel
 
 ## Move-Powered Blockchains
 
-- [Aptos](https://github.com/aptos-labs/aptos-core) - [Aptos](https://aptos.dev/) strives to be the safest and most scalable layer one blockchain solution (in [mainnet](https://explorer.aptoslabs.com/?network=mainnet)) and offers many [Move examples](https://github.com/aptos-labs/aptos-core/tree/main/aptos-move/move-examples).
+- [Aptos](https://github.com/aptos-labs/aptos-core) - [Aptos](https://aptos.dev/) strives to be the safest and most scalable layer one blockchain solution (in [mainnet](https://explorer.aptoslabs.com/?network=mainnet)).
 - [Sui](https://github.com/MystenLabs/sui) - A next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language (in [devnet](https://medium.com/mysten-labs/sui-devnet-public-release-a2be304ff36b)).
 - [0L](https://github.com/OLSF/libra) - A reference implementation of a neutral replicated state machine. Forked from the Libra/Diem technologies (in [mainnet](https://0l.network/)).
 - [Starcoin](https://github.com/starcoinorg/starcoin) - A smart contract blockchain network that scales by layering (in [mainnet](https://stcscan.io/)).
@@ -183,6 +183,7 @@ The ability to separate blockchain-specific framework logic from the generic fun
 ### Miscellaneous
 
 - [Move-on-EVM](https://github.com/move-language/move/tree/main/language/evm) - Experimental project to compile Move source code to EVM bytecode.
+- [Aptos Move examples](https://github.com/aptos-labs/aptos-core/tree/main/aptos-move/move-examples) - Span a wide variety of use cases.
 
 ## Tools
 
