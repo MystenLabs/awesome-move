@@ -33,6 +33,7 @@ Move is a programming language for writing safe smart contracts originally devel
   - [Language Design](#language-design)
   - [Static Analysis and Verification](#static-analysis-and-verification)
 - [Videos](#videos)
+- [Slides](#slides)
 - [Podcasts](#podcasts)
 - [Blog Posts](#blog-posts)
 - [Security](#security)
@@ -244,16 +245,16 @@ The ability to separate blockchain-specific framework logic from the generic fun
 
 ## Videos
 
-- [The Move Programming Language](youtu.be/J1U_0exNFu0)
+- [The Move Programming Language](https://youtu.be/J1U_0exNFu0)
 - [Move on Sui](https://www.youtube.com/watch?v=xMsE1X4wio4)
 - [Move on Aptos](https://www.youtube.com/watch?v=gvRJdJTQd8U)
 - [Move: A Safe Language for Programming with Money](https://www.youtube.com/watch?v=EG2-7bQNPv4&ab_channel=FieldsInstitute) - Talk from [@sblackshear](https://github.com/sblackshear) at the [Fields Institute Blockchain](http://www.fields.utoronto.ca/activities/seminar_series/blockchain-research-seminar-series) research seminar series.
 - [Formal Verification of Move Programs for the Libra Blockchain](http://www.fields.utoronto.ca/talks/Formal-verification-Move-programs-Libra-blockchain) - Talk from [@DavidLDill](https://github.com/DavidLDill) at the [Fields Institute Blockchain](http://www.fields.utoronto.ca/activities/seminar_series/blockchain-research-seminar-series) research seminar series.
-- [Move for the Masses](https://www.youtube.com/watch?v=b_2jZ4YEfWc) from [Converge '22](https://converge.circle.com/event/4ea0d06f-3900-4b6d-a9cd-aeaedda9ef2e/summary)
+- [Move for the Masses](https://www.youtube.com/watch?v=b_2jZ4YEfWc) - Talk at the [Converge '22](https://converge.circle.com/event/4ea0d06f-3900-4b6d-a9cd-aeaedda9ef2e/summary).
 
 ## Slides
 - [Move deep dive](https://docs.google.com/presentation/d/1Tb2iZD0xrQSlwXIJNL1djNYc0_p0szfB2STgURgHgls/edit?usp=sharing)
-- [Move overview](https://docs.google.com/presentation/d/1gU-M42Juz7ARc61unPXphJ_BX1OlQrBwR1VdaPT4M5w/edit?usp=sharing) from [Reasoning About Financial Systems](https://reasoningaboutfinancialsystems.org/) workshop at [SBC '22](https://cbr.stanford.edu/sbc22/)
+- [Move overview](https://docs.google.com/presentation/d/1gU-M42Juz7ARc61unPXphJ_BX1OlQrBwR1VdaPT4M5w/edit?usp=sharing) - Slides from [Reasoning About Financial Systems](https://reasoningaboutfinancialsystems.org/) workshop at [SBC '22](https://cbr.stanford.edu/sbc22/).
 
 ## Podcasts
 
