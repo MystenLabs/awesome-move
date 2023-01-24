@@ -45,10 +45,10 @@ Move is a programming language for writing safe smart contracts originally devel
 
 ## Move-Powered Blockchains
 
+- [Aptos](https://github.com/aptos-labs/aptos-core) - [Aptos](https://aptos.dev/) strives to be the safest and most scalable layer one blockchain solution (in [mainnet](https://explorer.aptoslabs.com/?network=mainnet)) and offers many [Move examples](https://github.com/aptos-labs/aptos-core/tree/main/aptos-move/move-examples).
 - [Sui](https://github.com/MystenLabs/sui) - A next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language (in [devnet](https://medium.com/mysten-labs/sui-devnet-public-release-a2be304ff36b)).
 - [0L](https://github.com/OLSF/libra) - A reference implementation of a neutral replicated state machine. Forked from the Libra/Diem technologies (in [mainnet](https://0l.network/)).
 - [Starcoin](https://github.com/starcoinorg/starcoin) - A smart contract blockchain network that scales by layering (in [mainnet](https://stcscan.io/)).
-- [Aptos](https://github.com/aptos-labs/aptos-core) - Aptos-core strives towards being the safest and most scalable layer one blockchain solution (in [mainnet](https://explorer.aptoslabs.com/?network=mainnet)).
 - [Pontem](https://github.com/pontem-network/pontem) - Substrate based parachain with MoveVM onboard (in [testnet](https://polkadot.js.org/apps/?rpc=wss://testnet.pontem.network/ws#/explorer)).
 - [Celo](https://github.com/celo-org/celo-blockchain) - Blockchain with EVM and MoveVM ([coming soon](https://www.businesswire.com/news/home/20210921006104/en/Celo-Sets-Sights-On-Becoming-Fastest-EVM-Chain-Through-Collaboration-With-Mysten-Labs)).
 - [Diem](https://github.com/diem/diem) - The original Move based blockchain from Meta (form. Libra by Facebook) (discontinued).
@@ -64,8 +64,11 @@ Move is a programming language for writing safe smart contracts originally devel
 
 - [Implementing, testing, and verifying a fungible token](https://github.com/move-language/move/tree/main/language/documentation/tutorial) - Maintained by the Move core team.
 - [Programming with objects](https://docs.sui.io/build/programming-with-objects) - Maintained by the Sui team.
-- [Move and SmartContract Development](https://starcoinorg.github.io/starcoin-cookbook/docs/move/) - Maintained by the Starcoin team.
+- [Move and Smart Contract Development](https://starcoinorg.github.io/starcoin-cookbook/docs/move/) - Maintained by the Starcoin team.
 - [Move Language](https://imcoding.online/courses/move-language) - Interactive Move language course, free for everyone, maintained by [imcoding.online](https://imcoding.online) ([中文](https://imcoding.online/courses/move-language?lng=zh)).
+- [Formal Verification, the Move Language, and the Move Prover](https://www.certik.com/resources/blog/2wSOZ3mC55AB6CYol6Q2rP-formal-verification-the-move-language-and-the-move-prover) - Maintained by certik.com.
+- [Your First Move Module](https://aptos.dev/tutorials/first-move-module) -  Maintained by the Aptos team.
+- [How Base Gas Works](https://aptos.dev/concepts/base-gas) - Maintained by the Aptos team.
 
 ## Community
 
@@ -100,6 +103,7 @@ Code written in Move.
 
 ### Non-Fungible Tokens
 
+- [Your First NFT](https://aptos.dev/tutorials/your-first-nft) - Create an NFT using one of the Aptos SDKs.
 - [NFT examples](https://github.com/MystenLabs/sui/tree/main/sui_programmability/examples/nfts) - Multiple NFT example implementations from Sui.
 - [NFT](https://github.com/starcoinorg/starcoin-framework/blob/main/sources/NFT.move) - An ERC721-like token. Deployed on Starcoin.
 - [Merkle Airdrop](https://github.com/starcoinorg/starcoin-framework/blob/main/sources/MerkleNFT.move) - Utility for airdropping a large number of NFTs. Deployed on Starcoin.
@@ -203,6 +207,7 @@ The ability to separate blockchain-specific framework logic from the generic fun
 
 ## Wallets
 
+- [Petra Wallet](https://petra.app/) - The wallet for the Aptos layer 1 blockchain. Maintained by Aptos, which offers a [wallet standard](https://aptos.dev/guides/wallet-standard) and [installation instructions](https://aptos.dev/guides/install-petra-wallet-extension).
 - [StarMask](https://github.com/starcoinorg/starmask-extension) - A wallet for the Starcoin blockchain. Maintained by the Starcoin team ([Chrome Webstore](https://chrome.google.com/webstore/detail/starmask/mfhbebgoclkghebffdldpobeajmbecfk?hl=en)).
 - [Sui Wallet](https://github.com/MystenLabs/sui/tree/main/apps/wallet) - A chrome (v88+) extension wallet for Sui ([Chrome Webstore](https://chrome.google.com/webstore/detail/sui-wallet/opcgpfmipidbgpenhmajoajpbobppdil)).
 - [Pontem Wallet](https://github.com/pontem-network/pontem-wallet) - Wallet extension for Aptos network by the Pontem team ([Chrome Webstore](https://chrome.google.com/webstore/detail/pontem-wallet/phkbamefinggmakgklpkljjmgibohnba)).
@@ -214,6 +219,7 @@ The ability to separate blockchain-specific framework logic from the generic fun
 
 ### Wallet Adapters
 
+- [Aptos Wallet Adapter](https://aptos.dev/concepts/wallet-adapter-concept) - Aptos Wallet Adapter with instructions for builders of [dapps](https://aptos.dev/guides/wallet-adapter-for-dapp) and [wallets](https://aptos.dev/guides/wallet-adapter-for-wallets).
 - [Sui Wallet](https://github.com/MystenLabs/sui/tree/main/sdk/wallet-adapter) - Sui Wallet Adapter.
 - [Suiet Wallet](https://github.com/suiet/wallet-adapter) - Suiet Wallet Adapter.
 
