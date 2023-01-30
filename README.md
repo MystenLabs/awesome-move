@@ -223,9 +223,22 @@ The ability to separate blockchain-specific framework logic from the generic fun
 - [Ethos Connect](https://github.com/EthosWallet/ethos-connect) - UI with built-in wallet adapter and Email option for supporting all wallets and wallet-less users on Sui.
 
 ## SDKs
-- [go-sui-sdk](https://github.com/coming-chat/go-sui-sdk) - Sui Golang SDK.
-- [go-aptos-sdk](https://github.com/coming-chat/go-aptos-sdk) - Aptos Golang SDK.
-- [OmniSwap-Sui-SDK](https://github.com/OmniBTC/OmniSwap-Sui-SDK) - AMM Swap SDK on Sui Network.
+
+### Sui SDKs
+- [Rust SDK](https://docs.sui.io/devnet/build/rust-sdk) (official)
+- [TS/JS SDK](https://github.com/MystenLabs/sui/tree/main/sdk/typescript) (official)
+- [Golang SDK 1](https://github.com/coming-chat/go-sui-sdk) (community)
+- [Golang SDK 2](https://github.com/block-vision/sui-go-sdk) (community)
+- [Python SDK](https://github.com/FrankC01/pysui) (community)
+- [Java SDK](https://github.com/GrapeBaBa/sui4j) (community)
+- [Kotlin SDK](https://github.com/cosmostation/suikotlin) (community)
+- [C# SDK](https://github.com/naami-finance/SuiNet) (community)
+
+### Sui Dapps SDKs
+- [OmniSwap-Sui-SDK](https://github.com/OmniBTC/OmniSwap-Sui-SDK) (community)
+
+### Other network SDKs
+- [Aptos Golang SDK](https://github.com/coming-chat/go-aptos-sdk) (community)
 
 ## Papers
 
