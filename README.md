@@ -199,6 +199,7 @@ The ability to separate blockchain-specific framework logic from the generic fun
 - [Starcoin IDE](https://marketplace.visualstudio.com/items?itemName=starcoinorg.starcoin-ide) - Maintained by the Starcoin team ([source code](https://github.com/starcoinorg/starcoin-ide)).
 - [Move Vim](https://github.com/rvmelkonian/move.vim) - Maintained by [@rvmelkonian](https://github.com/rvmelkonian/).
 - [move-mode](https://github.com/amnn/move-mode) - Major mode for Emacs maintained by [@amnn](https://github.com/amnn/).
+- [WELLDONE Code](https://docs.welldonestudio.io/code/deploy-and-run/sui) - Remix IDE Plugin for Move. It is a web-based IDE that allows developers to deploy smart contracts and execute functions through a browser wallet.
 
 ## Package Managers
 - [Movey](https://www.movey.net/) - A crates.io-style repository of Move packages.
@@ -213,6 +214,7 @@ The ability to separate blockchain-specific framework logic from the generic fun
 - [ComingChat](https://coming.chat/) - A decentralized social finance/web3 portal.  Supporting public chain wallets, such as Sui and Aptos wallets.
 - [Suiet Wallet](https://github.com/suiet/suiet) - A open-source wallet for Sui. ([Chrome Webstore](https://chrome.google.com/webstore/detail/suiet/khpkpbbcccdmmclmpigdgddabeilkdpd), [Website](https://suiet.app)) 
 - [Ethos Wallet](https://github.com/EthosWallet/chrome-extension) - Open-source chrome extension wallet for Sui ([Chrome Webstore](https://chrome.google.com/webstore/detail/ethos-sui-wallet/mcbigmjiafegjnnogedioegffbooigli), [Website](https://ethoswallet.xyz/)).
+- [WELLDONE Wallet](https://chrome.google.com/webstore/detail/welldone-wallet-for-multi/bmkakpenjmcpfhhjadflneinmhboecjf) - Browser extension wallet for multi-chain. A single wallet for all your crypto assets ([Chrome Webstore](https://chrome.google.com/webstore/detail/welldone-wallet-for-multi/bmkakpenjmcpfhhjadflneinmhboecjf), [Website](https://docs.welldonestudio.io/wallet/manual)).
 
 ### Wallet Adapters
 
