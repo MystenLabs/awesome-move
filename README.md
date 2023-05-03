@@ -29,6 +29,7 @@ Move is a programming language for writing safe smart contracts originally devel
 - [Package Managers](#package-managers)
 - [Wallets](#wallets)
 - [SDKs](#sdks)
+- [API and Node Services](#api-and-node-services)
 - [Papers](#papers)
   - [Language Design](#language-design)
   - [Static Analysis and Verification](#static-analysis-and-verification)
@@ -241,6 +242,10 @@ The ability to separate blockchain-specific framework logic from the generic fun
 
 ### Other network SDKs
 - [Aptos Golang SDK](https://github.com/coming-chat/go-aptos-sdk) (community)
+
+## API and Node Services
+
+- [blockeden.xyz](https://blockeden.xyz) - Aptos REST and GraphQL API service ([source code](https://github.com/BlockEdenHQ/web-blockeden-home)).
 
 ## Papers
 
