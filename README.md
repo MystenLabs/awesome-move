@@ -199,6 +199,7 @@ The ability to separate blockchain-specific framework logic from the generic fun
 - [Starcoin IDE](https://marketplace.visualstudio.com/items?itemName=starcoinorg.starcoin-ide) - Maintained by the Starcoin team ([source code](https://github.com/starcoinorg/starcoin-ide)).
 - [Move Vim](https://github.com/rvmelkonian/move.vim) - Maintained by [@rvmelkonian](https://github.com/rvmelkonian/).
 - [move-mode](https://github.com/amnn/move-mode) - Major mode for Emacs maintained by [@amnn](https://github.com/amnn/).
+- [Lsp-bridge](https://github.com/manateelazycat/lsp-bridge) - Out-of-the-box Move LSP client for Emacs users, Move language support by [@geometryolife](https://github.com/geometryolife) at [#612](https://github.com/manateelazycat/lsp-bridge/pull/612).
 
 ## Package Managers
 - [Movey](https://www.movey.net/) - A crates.io-style repository of Move packages.
