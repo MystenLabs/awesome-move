@@ -192,8 +192,8 @@ The ability to separate blockchain-specific framework logic from the generic fun
 
 - [Move-on-EVM](https://github.com/move-language/move/tree/main/language/evm) - Experimental project to compile Move source code to EVM bytecode.
 - [aoc-move](https://github.com/whonore/aoc-move) - Advent of Code solutions in Move with some formal verification.
-- [move-js](https://github.com/movefuns/move-js) - Javascript version of the move language compiler and disassemble
-- [move-wasm](https://github.com/movefuns/move-wasm) - wasm32-wasi version of the move language tools
+- [Move-js](https://github.com/movefuns/move-js) - Javascript version of the move language compiler and disassemble
+- [Move-wasm](https://github.com/movefuns/move-wasm) - wasm32-wasi version of the move language tools
 
 ## Tools
 
