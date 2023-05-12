@@ -7,36 +7,44 @@ Move is a programming language for writing safe smart contracts originally devel
 
 ## Contents
 
-- [Overview](#overview)
-- [Move-Powered Blockchains](#move-powered-blockchains)
-- [Books](#books)
-- [Tutorials](#tutorials)
-- [Community](#community)
-- [Code](#code)
-  - [Fungible Tokens](#fungible-tokens)
-  - [Non-Fungible Tokens](#non-fungible-tokens)
-  - [Decentralized Identity](#decentralized-identity)
-  - [DeFi](#defi)
-  - [SocialFi](#socialfi)
-  - [On-Chain Governance](#on-chain-governance)
-  - [Cross-Chain Bridge](#cross-chain-bridge)
-  - [Accounts](#accounts)
-  - [Frameworks](#frameworks)
-  - [Libraries](#libraries)
-  - [Miscellaneous](#miscellaneous)
-- [Tools](#tools)
-- [IDEs](#ides)
-- [Package Managers](#package-managers)
-- [Wallets](#wallets)
-- [SDKs](#sdks)
-- [Papers](#papers)
-  - [Language Design](#language-design)
-  - [Static Analysis and Verification](#static-analysis-and-verification)
-- [Videos](#videos)
-- [Slides](#slides)
-- [Podcasts](#podcasts)
-- [Blog Posts](#blog-posts)
-- [Security](#security)
+- [Awesome Move ](#awesome-move-)
+  - [Contents](#contents)
+  - [Overview](#overview)
+  - [Move-Powered Blockchains](#move-powered-blockchains)
+  - [Books](#books)
+  - [Tutorials](#tutorials)
+  - [Community](#community)
+  - [Code](#code)
+    - [Fungible Tokens](#fungible-tokens)
+    - [Non-Fungible Tokens](#non-fungible-tokens)
+    - [Decentralized Identity](#decentralized-identity)
+    - [DeFi](#defi)
+    - [SocialFi](#socialfi)
+    - [On-Chain Governance](#on-chain-governance)
+    - [Cross-Chain Bridge](#cross-chain-bridge)
+    - [Accounts](#accounts)
+    - [Frameworks](#frameworks)
+    - [Libraries](#libraries)
+    - [Miscellaneous](#miscellaneous)
+  - [Tools](#tools)
+  - [IDEs](#ides)
+  - [Package Managers](#package-managers)
+  - [Wallets](#wallets)
+    - [Wallet Adapters](#wallet-adapters)
+    - [Wallet Kits](#wallet-kits)
+  - [SDKs](#sdks)
+    - [Sui SDKs](#sui-sdks)
+    - [Sui Dapps SDKs](#sui-dapps-sdks)
+    - [Other network SDKs](#other-network-sdks)
+  - [Papers](#papers)
+    - [Language Design](#language-design)
+    - [Static Analysis and Verification](#static-analysis-and-verification)
+  - [Videos](#videos)
+  - [Slides](#slides)
+  - [Podcasts](#podcasts)
+  - [Blog Posts](#blog-posts)
+  - [Security](#security)
+  - [Contributing](#contributing)
 
 ## Overview
 
@@ -76,7 +84,7 @@ Move is a programming language for writing safe smart contracts originally devel
 - [Move @ Starcoin Discord](https://discord.gg/starcoin)
 - [Move @ Aptos Discord](https://discord.gg/aptoslabs)
 - [MoveChina](https://move-china.com) - The largest Chinese community for the Move programming language.
-- [Movefuns](https://github.com/movefuns) - The main goal of uniting the developer community to build a across multiple Move chains ecosystem.
+- [MoveFuns](https://github.com/movefuns) - The main goal of uniting the developer community to build a across multiple Move chains ecosystem.
 
 ## Code
 
@@ -184,6 +192,8 @@ The ability to separate blockchain-specific framework logic from the generic fun
 
 - [Move-on-EVM](https://github.com/move-language/move/tree/main/language/evm) - Experimental project to compile Move source code to EVM bytecode.
 - [aoc-move](https://github.com/whonore/aoc-move) - Advent of Code solutions in Move with some formal verification.
+- [move-js](https://github.com/movefuns/move-js) - Javascript version of the move language compiler and disassemble
+- [move-wasm](https://github.com/movefuns/move-wasm) - wasm32-wasi version of the move language tools
 
 ## Tools
 
