@@ -76,6 +76,7 @@ Move is a programming language for writing safe smart contracts originally devel
 - [Move @ Starcoin Discord](https://discord.gg/starcoin)
 - [Move @ Aptos Discord](https://discord.gg/aptoslabs)
 - [MoveChina](https://move-china.com) - The largest Chinese community for the Move programming language.
+- [Movefuns](https://github.com/movefuns) - The main goal of uniting the developer community to build a across multiple Move chains ecosystem.
 
 ## Code
 
@@ -177,6 +178,7 @@ The ability to separate blockchain-specific framework logic from the generic fun
 - [Starcoin Framework Commons](https://github.com/starcoinorg/starcoin-framework-commons) - Libraries for Move commons utility on starcoin-framework. From Starcoin.
 - [Movemate](https://github.com/pentagonxyz/movemate) - Smart contract building blocks for Aptos and Sui (Math utilities, governance contracts, escrow, and more). Maintained by the Pentagon team.
 - [Move cron parser](https://github.com/snowflake-so/move-cron-parser#readme) - Library is built for a purpose of parsing cron expression. Maintained by Snowflake Network team.
+- [MoveFuns](https://github.com/movefuns/movefuns) - The Move commons library for support multiple Move chains.
 
 ### Miscellaneous
 
@@ -190,6 +192,7 @@ The ability to separate blockchain-specific framework logic from the generic fun
 - [Move Read/Write Set Analyzer](https://github.com/move-language/move/tree/main/language/tools/read-write-set) - Static analysis tool for computing an overapproximation of the global memory touched by a Move program. Maintained by the Move core team.
 - [Move Playground JS Library](https://github.com/imcoding-online/js-move-playground) - Wrapping [Move Playground by Pontem](https://playground.pontem.network/) as a JavaScript library for browser. You can use it to build your own Move Playground.
 - [go-sui-indexer](https://github.com/coming-chat/go-sui-indexer) - An off-fullnode service to serve data from Sui Node.
+- [highlightjs-move](https://github.com/movefuns/highlightjs-move) - An highlight.js plug-in for move create by [movefuns](https://github.com/movefuns)
 
 ## IDEs
 
