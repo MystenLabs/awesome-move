@@ -7,36 +7,44 @@ Move is a programming language for writing safe smart contracts originally devel
 
 ## Contents
 
-- [Overview](#overview)
-- [Move-Powered Blockchains](#move-powered-blockchains)
-- [Books](#books)
-- [Tutorials](#tutorials)
-- [Community](#community)
-- [Code](#code)
-  - [Fungible Tokens](#fungible-tokens)
-  - [Non-Fungible Tokens](#non-fungible-tokens)
-  - [Decentralized Identity](#decentralized-identity)
-  - [DeFi](#defi)
-  - [SocialFi](#socialfi)
-  - [On-Chain Governance](#on-chain-governance)
-  - [Cross-Chain Bridge](#cross-chain-bridge)
-  - [Accounts](#accounts)
-  - [Frameworks](#frameworks)
-  - [Libraries](#libraries)
-  - [Miscellaneous](#miscellaneous)
-- [Tools](#tools)
-- [IDEs](#ides)
-- [Package Managers](#package-managers)
-- [Wallets](#wallets)
-- [SDKs](#sdks)
-- [Papers](#papers)
-  - [Language Design](#language-design)
-  - [Static Analysis and Verification](#static-analysis-and-verification)
-- [Videos](#videos)
-- [Slides](#slides)
-- [Podcasts](#podcasts)
-- [Blog Posts](#blog-posts)
-- [Security](#security)
+- [Awesome Move ](#awesome-move-)
+  - [Contents](#contents)
+  - [Overview](#overview)
+  - [Move-Powered Blockchains](#move-powered-blockchains)
+  - [Books](#books)
+  - [Tutorials](#tutorials)
+  - [Community](#community)
+  - [Code](#code)
+    - [Fungible Tokens](#fungible-tokens)
+    - [Non-Fungible Tokens](#non-fungible-tokens)
+    - [Decentralized Identity](#decentralized-identity)
+    - [DeFi](#defi)
+    - [SocialFi](#socialfi)
+    - [On-Chain Governance](#on-chain-governance)
+    - [Cross-Chain Bridge](#cross-chain-bridge)
+    - [Accounts](#accounts)
+    - [Frameworks](#frameworks)
+    - [Libraries](#libraries)
+    - [Miscellaneous](#miscellaneous)
+  - [Tools](#tools)
+  - [IDEs](#ides)
+  - [Package Managers](#package-managers)
+  - [Wallets](#wallets)
+    - [Wallet Adapters](#wallet-adapters)
+    - [Wallet Kits](#wallet-kits)
+  - [SDKs](#sdks)
+    - [Sui SDKs](#sui-sdks)
+    - [Sui Dapps SDKs](#sui-dapps-sdks)
+    - [Other network SDKs](#other-network-sdks)
+  - [Papers](#papers)
+    - [Language Design](#language-design)
+    - [Static Analysis and Verification](#static-analysis-and-verification)
+  - [Videos](#videos)
+  - [Slides](#slides)
+  - [Podcasts](#podcasts)
+  - [Blog Posts](#blog-posts)
+  - [Security](#security)
+  - [Contributing](#contributing)
 
 ## Overview
 
@@ -76,6 +84,7 @@ Move is a programming language for writing safe smart contracts originally devel
 - [Move @ Starcoin Discord](https://discord.gg/starcoin)
 - [Move @ Aptos Discord](https://discord.gg/aptoslabs)
 - [MoveChina](https://move-china.com) - The largest Chinese community for the Move programming language.
+- [MoveFuns](https://github.com/movefuns) - The main goal of uniting the developer community to build a across multiple Move chains ecosystem.
 
 ## Code
 
@@ -177,11 +186,14 @@ The ability to separate blockchain-specific framework logic from the generic fun
 - [Starcoin Framework Commons](https://github.com/starcoinorg/starcoin-framework-commons) - Libraries for Move commons utility on starcoin-framework. From Starcoin.
 - [Movemate](https://github.com/pentagonxyz/movemate) - Smart contract building blocks for Aptos and Sui (Math utilities, governance contracts, escrow, and more). Maintained by the Pentagon team.
 - [Move cron parser](https://github.com/snowflake-so/move-cron-parser#readme) - Library is built for a purpose of parsing cron expression. Maintained by Snowflake Network team.
+- [MoveFuns](https://github.com/movefuns/movefuns) - The Move commons library for support multiple Move chains.
 
 ### Miscellaneous
 
 - [Move-on-EVM](https://github.com/move-language/move/tree/main/language/evm) - Experimental project to compile Move source code to EVM bytecode.
 - [aoc-move](https://github.com/whonore/aoc-move) - Advent of Code solutions in Move with some formal verification.
+- [Move-js](https://github.com/movefuns/move-js) - Javascript version of the move language compiler and disassemble
+- [Move-wasm](https://github.com/movefuns/move-wasm) - wasm32-wasi version of the move language tools
 
 ## Tools
 
@@ -190,6 +202,7 @@ The ability to separate blockchain-specific framework logic from the generic fun
 - [Move Read/Write Set Analyzer](https://github.com/move-language/move/tree/main/language/tools/read-write-set) - Static analysis tool for computing an overapproximation of the global memory touched by a Move program. Maintained by the Move core team.
 - [Move Playground JS Library](https://github.com/imcoding-online/js-move-playground) - Wrapping [Move Playground by Pontem](https://playground.pontem.network/) as a JavaScript library for browser. You can use it to build your own Move Playground.
 - [go-sui-indexer](https://github.com/coming-chat/go-sui-indexer) - An off-fullnode service to serve data from Sui Node.
+- [highlightjs-move](https://github.com/movefuns/highlightjs-move) - A highlight.js plug-in for move create by [movefuns](https://github.com/movefuns)
 
 ## IDEs
 
