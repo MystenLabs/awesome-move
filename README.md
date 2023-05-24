@@ -45,7 +45,7 @@ Move is a programming language for writing safe smart contracts originally devel
 
 ## Move-Powered Blockchains
 
-- [Sui](https://github.com/MystenLabs/sui) - A next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language (in [devnet](https://medium.com/mysten-labs/sui-devnet-public-release-a2be304ff36b)).
+- [Sui](https://github.com/MystenLabs/sui) - A next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language (in [mainnet](https://suiexplorer.com/)).
 - [0L](https://github.com/OLSF/libra) - A reference implementation of a neutral replicated state machine. Forked from the Libra/Diem technologies (in [mainnet](https://0l.network/)).
 - [Starcoin](https://github.com/starcoinorg/starcoin) - A smart contract blockchain network that scales by layering (in [mainnet](https://stcscan.io/)).
 - [Aptos](https://github.com/aptos-labs/aptos-core) - Aptos-core strives towards being the safest and most scalable layer one blockchain solution (in [mainnet](https://explorer.aptoslabs.com/?network=mainnet)).
