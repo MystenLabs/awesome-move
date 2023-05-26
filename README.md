@@ -59,6 +59,7 @@ Move is a programming language for writing safe smart contracts originally devel
 - [Move Book](https://move-language.github.io/move/) - Move book maintained by the Move core team ([中文](https://github.com/move-language/move/tree/main/language/documentation/book/translations/move-book-zh)).
 - [Move Book](https://move-book.com/) - Move book maintained by [@damirka](https://github.com/damirka) ([中文](https://move-book.com/cn/)).
 - [Move Patterns](https://www.move-patterns.com/) - A book on Move software design patterns maintained by [@villesundell](https://github.com/villesundell).
+- [Sui Move by Example](https://examples.sui.io/) - A book on the Sui Move variant maintained by [@MystenLabs](https://github.com/MystenLabs).
 
 ## Tutorials
 
@@ -189,6 +190,8 @@ The ability to separate blockchain-specific framework logic from the generic fun
 - [Move Read/Write Set Analyzer](https://github.com/move-language/move/tree/main/language/tools/read-write-set) - Static analysis tool for computing an overapproximation of the global memory touched by a Move program. Maintained by the Move core team.
 - [Move Playground JS Library](https://github.com/imcoding-online/js-move-playground) - Wrapping [Move Playground by Pontem](https://playground.pontem.network/) as a JavaScript library for browser. You can use it to build your own Move Playground.
 - [scaffold-sui](https://github.com/NonceGeek/scaffold-sui) - Forkable Sui dev stack focused on fast product iterations.
+- [go-sui-indexer](https://github.com/coming-chat/go-sui-indexer) - An off-fullnode service to serve data from Sui Node.
+
 ## IDEs
 
 - [Move VS Code plugin](https://marketplace.visualstudio.com/items?itemName=move.move-analyzer) - Maintained by the Move core team ([source code](https://github.com/move-language/move/tree/main/language/move-analyzer)).
@@ -223,9 +226,22 @@ The ability to separate blockchain-specific framework logic from the generic fun
 - [Ethos Connect](https://github.com/EthosWallet/ethos-connect) - UI with built-in wallet adapter and Email option for supporting all wallets and wallet-less users on Sui.
 
 ## SDKs
-- [go-sui-sdk](https://github.com/coming-chat/go-sui-sdk) - Sui Golang SDK.
-- [go-aptos-sdk](https://github.com/coming-chat/go-aptos-sdk) - Aptos Golang SDK.
-- [OmniSwap-Sui-SDK](https://github.com/OmniBTC/OmniSwap-Sui-SDK) - AMM Swap SDK on Sui Network.
+
+### Sui SDKs
+- [Rust SDK](https://docs.sui.io/devnet/build/rust-sdk) (official)
+- [TS/JS SDK](https://github.com/MystenLabs/sui/tree/main/sdk/typescript) (official)
+- [Golang SDK 1](https://github.com/coming-chat/go-sui-sdk) (community)
+- [Golang SDK 2](https://github.com/block-vision/sui-go-sdk) (community)
+- [Python SDK](https://github.com/FrankC01/pysui) (community)
+- [Java SDK](https://github.com/GrapeBaBa/sui4j) (community)
+- [Kotlin SDK](https://github.com/cosmostation/suikotlin) (community)
+- [C# SDK](https://github.com/naami-finance/SuiNet) (community)
+
+### Sui Dapps SDKs
+- [OmniSwap-Sui-SDK](https://github.com/OmniBTC/OmniSwap-Sui-SDK) (community)
+
+### Other network SDKs
+- [Aptos Golang SDK](https://github.com/coming-chat/go-aptos-sdk) (community)
 
 ## Papers
 
