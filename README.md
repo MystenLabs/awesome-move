@@ -60,6 +60,8 @@ Move is a programming language for writing safe smart contracts originally devel
 - [Move Book](https://move-book.com/) - Move book maintained by [@damirka](https://github.com/damirka) ([中文](https://move-book.com/cn/)).
 - [Move Patterns](https://www.move-patterns.com/) - A book on Move software design patterns maintained by [@villesundell](https://github.com/villesundell).
 - [Sui Move by Example](https://examples.sui.io/) - A book on the Sui Move variant maintained by [@MystenLabs](https://github.com/MystenLabs).
+- [Aptos Move by Example](https://move-developers-dao.gitbook.io/aptos-move-by-example/) - A book on the Aptos Move variant maintained by [@movedevelopersdao](https://github.com/movedevelopersdao)
+- [Aptos Move by Example zh](https://github.com/movefuns/Aptos-Move-by-Example-zh) - Aptos Move by Example 中文版 maintained by [@movefuns](https://github.com/movefuns)
 
 ## Tutorials
 
