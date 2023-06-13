@@ -213,6 +213,7 @@ The ability to separate blockchain-specific framework logic from the generic fun
 - [ComingChat](https://coming.chat/) - A decentralized social finance/web3 portal.  Supporting public chain wallets, such as Sui and Aptos wallets.
 - [Suiet Wallet](https://github.com/suiet/suiet) - A open-source wallet for Sui. ([Chrome Webstore](https://chrome.google.com/webstore/detail/suiet/khpkpbbcccdmmclmpigdgddabeilkdpd), [Website](https://suiet.app)) 
 - [Ethos Wallet](https://github.com/EthosWallet/chrome-extension) - Open-source chrome extension wallet for Sui ([Chrome Webstore](https://chrome.google.com/webstore/detail/ethos-sui-wallet/mcbigmjiafegjnnogedioegffbooigli), [Website](https://ethoswallet.xyz/)).
+- [Mofa Wallet](https://github.com/mofalabs/mofa) - Open-source mobile wallet for Sui ([Google Play](https://play.google.com/store/apps/details?id=com.mofalabs.mofa)).
 
 ### Wallet Adapters
 
@@ -235,6 +236,7 @@ The ability to separate blockchain-specific framework logic from the generic fun
 - [Java SDK](https://github.com/GrapeBaBa/sui4j) (community)
 - [Kotlin SDK](https://github.com/cosmostation/suikotlin) (community)
 - [C# SDK](https://github.com/naami-finance/SuiNet) (community)
+- [Dart SDK](https://github.com/mofalabs/sui) (community)
 
 ### Sui Dapps SDKs
 - [OmniSwap-Sui-SDK](https://github.com/OmniBTC/OmniSwap-Sui-SDK) (community)
