@@ -235,6 +235,7 @@ The ability to separate blockchain-specific framework logic from the generic fun
 - [Java SDK](https://github.com/GrapeBaBa/sui4j) (community)
 - [Kotlin SDK](https://github.com/cosmostation/suikotlin) (community)
 - [C# SDK](https://github.com/naami-finance/SuiNet) (community)
+- [Kotlin MP SDK](https://github.com/mcxross/ksui) (community)
 
 ### Sui Dapps SDKs
 - [OmniSwap-Sui-SDK](https://github.com/OmniBTC/OmniSwap-Sui-SDK) (community)
