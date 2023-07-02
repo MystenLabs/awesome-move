@@ -1,0 +1,257 @@
+
+
+You have unread notifications
+Code
+Issues
+2
+Pull requests
+11
+Actions
+Projects
+Security
+Insights
+Notification settings
+Fork your own copy of MystenLabs/awesome-move
+Unstar this repository
+Code and content from the Move community.
+
+License
+ CC-BY-4.0 license
+ 1.2k stars
+ 223 forks
+ 39 watching
+ Activity
+Public repository
+MystenLabs/awesome-move
+ Branches
+ Tags
+Latest commit
+@gguoss
+gguoss
+…
+on Apr 30
+Git stats
+Files
+README.md
+Awesome Move Awesome
+A curated list of code and content from the Move programming language community.
+
+Move is a programming language for writing safe smart contracts originally developed at Facebook to power the Libra blockchain. Move is designed to be a platform-agnostic language to enable common libraries, tooling, and developer communities across diverse blockchains with vastly different data and execution models. Move's ambition is to become the "JavaScript of web3" in terms of ubiquity--when developers want to quickly write safe code involving assets, it should be written in Move.
+
+Contents
+Overview
+Move-Powered Blockchains
+Books
+Tutorials
+Community
+Code
+Fungible Tokens
+Non-Fungible Tokens
+Decentralized Identity
+DeFi
+SocialFi
+On-Chain Governance
+Cross-Chain Bridge
+Accounts
+Frameworks
+Libraries
+Miscellaneous
+Tools
+IDEs
+Package Managers
+Wallets
+SDKs
+Papers
+Language Design
+Static Analysis and Verification
+Videos
+Slides
+Podcasts
+Blog Posts
+Security
+Overview
+Installation
+Problem Statement
+Move-Powered Blockchains
+Sui - A next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language (in devnet).
+0L - A reference implementation of a neutral replicated state machine. Forked from the Libra/Diem technologies (in mainnet).
+Starcoin - A smart contract blockchain network that scales by layering (in mainnet).
+Aptos - Aptos-core strives towards being the safest and most scalable layer one blockchain solution (in mainnet).
+Pontem - Substrate based parachain with MoveVM onboard (in testnet).
+Celo - Blockchain with EVM and MoveVM (coming soon).
+Diem - The original Move based blockchain from Meta (form. Libra by Facebook) (discontinued).
+ChainX - Bitcoin's layer2 smart contract network has already supported WASM and EVM, and is supporting MoveVM (in mainnet).
+Books
+Move Book - Move book maintained by the Move core team (中文).
+Move Book - Move book maintained by @damirka (中文).
+Move Patterns - A book on Move software design patterns maintained by @villesundell.
+Sui Move by Example - A book on the Sui Move variant maintained by @MystenLabs.
+Tutorials
+Implementing, testing, and verifying a fungible token - Maintained by the Move core team.
+Programming with objects - Maintained by the Sui team.
+Move and SmartContract Development - Maintained by the Starcoin team.
+Move Language - Interactive Move language course, free for everyone, maintained by imcoding.online (中文).
+Community
+Move Language Discord
+Move @ Sui by Mysten Labs Discord
+Move @ 0L Discord
+Move @ Starcoin Discord
+Move @ Aptos Discord
+MoveChina - The largest Chinese community for the Move programming language.
+Code
+Code written in Move.
+
+Fungible Tokens
+Fungible token examples - Multiple example token implementations from Sui.
+BasicCoin - A toy implementation of an ERC20-like fungible token.
+Diem - An ERC20-like token with permissioned minting/burning, see also this spec. Deployed on 0L.
+Token - Another ERC20-like Token. Deployed on Starcoin.
+GAS - A token that instantiates the Diem standard above. Deployed on 0L.
+STC - A token that instantiates the Starcoin standard above. Deployed on Starcoin.
+STAR - A governance token of Starswap dApp that powers the AMM+DEX ecosystem. Deployed on Starcoin.
+XUSDT - A mapped assets of USDT on Starcoin.
+XETH - A mapped assets of ETH on Starcoin.
+WEN stablecoin - Deployed on Starcoin.
+FAI stablecoin - An over-collateralized stable coin deployed on Starcoin.
+FLY stablecoin - An implementation of forked OHM that deployed on Starcoin.
+Synthetic token backed by a basket containing a reserve of other tokens - From Diem.
+XBTC - BTC mirror asset on Aptos.
+XBTC - BTC mirror asset on Sui.
+Non-Fungible Tokens
+NFT examples - Multiple NFT example implementations from Sui.
+NFT - An ERC721-like token. Deployed on Starcoin.
+Merkle Airdrop - Utility for airdropping a large number of NFTs. Deployed on Starcoin.
+NFT - An implementation of a hybrid ERC721/ERC1155-like token. From Diem.
+BARS - An NFT that instantiates this hybrid standard. From Diem.
+MultiToken - An ERC1155-like token. From Diem.
+NFTGallery - Utility for holding multiple NFT's of the same type. From Diem.
+NFT Protocol - NFT protocol and collection framework. From OriginByte.
+Suia - The first POAP application on Sui.
+Decentralized Identity
+aptos-cid - Decentralized identity on Aptos, the underlying account system of ComingChat.
+MoveDID - MoveDID is a DID protocol that compatible with Move-based blockchain networks, including Aptos, Sui, and Starcoin. Maintained by the NonceGeek.
+DeFi
+DeFi examples - Multiple DeFi example implementations from Sui.
+CoinSwap - A toy implementation of a Uniswap-like liquidity pool containing two tokens.
+Starswap - A Uniswap-style DEX. Deployed on Starcoin.
+Offer - Generic implementation of atomic swaps for any pair of assets.
+AptosRedPacket - A red packet social app that combines private chat and encrypted wallet on Aptos.
+SuiRedPacket - A red packet social app that combines private chat and encrypted wallet on Sui.
+AptosAMMswap - Aptos AMM Swap implemented by the OmniBTC team.
+SuiAMMswap - Sui AMM Swap implemented by the OmniBTC team.
+AptosOmniSwap - One-click swap between aptos and EVM chains (such as ETH/BSC/AVAX, etc.) based on the cross-chain interoperability protocol wormhole.
+DolaProtocol - A Decentralized Omnichain Liquidity Aggregation Protocol with the single coin pool of each public chain as the core, Wormhole, Layerzero and other cross-chain messaging protocols as the bridge, and Sui public chain as the settlement center.
+ObjectMarket - A unique object trading marketplace in the Sui network.
+SocialFi
+Dmens - Decentralized Moments which is a Blockchain Twitter Protocol built on the Sui network.
+On-Chain Governance
+ValidatorUniverse - Validator set management. Deployed on 0L.
+Oracle - For on-chain community voting. Deployed on 0L.
+DAO - For on-chain proposals and voting. Deployed on Starcoin.
+DiemSystem - Validator set management. From Diem.
+Vote - On-chain voting. From Diem.
+Cross-Chain Bridge
+Poly Bridge - The first Cross-Chain Bridge between Move and EVM. Deployed on Starcoin.
+OmniBTC Bridge - A bridge between Bitcoin and Move language public chains (like Aptos and Sui) based on ultra-light node.
+Accounts
+Account - A generic account for Diem-powered chains. From Diem.
+DiemAccount - Fork of the above. From 0L.
+Account - Fork of the above. From Starcoin.
+Frameworks
+A Move framework is the set of Move modules included in the genesis state of the chain. These modules typically implement key concepts like accounts, currencies, . The ability to separate blockchain-specific framework logic from the generic functionality of the Move language is a key part of Move's platform-agnostic design.
+
+Sui Framework
+Aptos Framework
+0L Framework
+Starcoin Framework
+Diem Framework
+Libraries
+Move standard library - Utilities intended (but not required) to be used in every platform running Move. From the Move repo.
+Move nursery - Experimental modules that may eventually be promoted into the standard library. From the Move repo.
+Decimal - Efficient implementation of a decimal value. From 0L.
+Math - Math utility functions. From Starcoin.
+Compare - Polymorphic comparison (i.e., compare any two Move values of the same type). From the nursery.
+Vault - Library for capabilities. From the nursery.
+ACL - Library for list-based access control. From the nursery.
+TaoHe - A collection of nestable Move resources.
+Starcoin Framework Commons - Libraries for Move commons utility on starcoin-framework. From Starcoin.
+Movemate - Smart contract building blocks for Aptos and Sui (Math utilities, governance contracts, escrow, and more). Maintained by the Pentagon team.
+Move cron parser - Library is built for a purpose of parsing cron expression. Maintained by Snowflake Network team.
+Miscellaneous
+Move-on-EVM - Experimental project to compile Move source code to EVM bytecode.
+aoc-move - Advent of Code solutions in Move with some formal verification.
+Tools
+Move Package Manager - Like cargo or npm for Move: single CLI (and corresponding Rust API's for other tools to hook into) for building, running, testing, debugging, and verifying Move packages. Maintained by the Move core team.
+Move Prover - Formal verification of user-defined specifications written in Move source code. Maintained by the Move core team.
+Move Read/Write Set Analyzer - Static analysis tool for computing an overapproximation of the global memory touched by a Move program. Maintained by the Move core team.
+Move Playground JS Library - Wrapping Move Playground by Pontem as a JavaScript library for browser. You can use it to build your own Move Playground.
+go-sui-indexer - An off-fullnode service to serve data from Sui Node.
+IDEs
+Move VS Code plugin - Maintained by the Move core team (source code).
+Move IntelliJ plugin - Maintained by the Pontem team (source code).
+Move Playground - Like Remix for Move. Alpha version of a Web IDE. See instructions. Maintained by the Pontem team.
+Starcoin IDE - Maintained by the Starcoin team (source code).
+Move Vim - Maintained by @rvmelkonian.
+move-mode - Major mode for Emacs maintained by @amnn.
+Package Managers
+Movey - A crates.io-style repository of Move packages.
+Wallets
+StarMask - A wallet for the Starcoin blockchain. Maintained by the Starcoin team (Chrome Webstore).
+Sui Wallet - A chrome (v88+) extension wallet for Sui (Chrome Webstore).
+Pontem Wallet - Wallet extension for Aptos network by the Pontem team (Chrome Webstore).
+Fewcha Aptos Wallet - The wallet of layer 1 blockchain Aptos (Chrome Webstore).
+bcs-js - JavaScript implementation of the BCS serialization scheme used by Move, may be useful for implementing wallets.
+ComingChat - A decentralized social finance/web3 portal. Supporting public chain wallets, such as Sui and Aptos wallets.
+Suiet Wallet - A open-source wallet for Sui. (Chrome Webstore, Website)
+Ethos Wallet - Open-source chrome extension wallet for Sui (Chrome Webstore, Website).
+Wallet Adapters
+Sui Wallet - Sui Wallet Adapter.
+Suiet Wallet - Suiet Wallet Adapter.
+Wallet Kits
+Suiet Wallet Kit - A package support all Sui wallets with customizable UI.
+Ethos Connect - UI with built-in wallet adapter and Email option for supporting all wallets and wallet-less users on Sui.
+SDKs
+Sui SDKs
+Rust SDK (official)
+TS/JS SDK (official)
+Golang SDK 1 (community)
+Golang SDK 2 (community)
+Python SDK (community)
+Java SDK (community)
+Kotlin SDK (community)
+C# SDK (community)
+Sui Dapps SDKs
+OmniSwap-Sui-SDK (community)
+Other network SDKs
+Aptos Golang SDK (community)
+Papers
+Language Design
+Move: A Language With Programmable Resources - This was the original Move white paper released in 2018. Many aspects of this are now out of date (e.g., the syntax and description of the bytecode instructions), but the first two sections are worth a read for explaining the difficulties of programming with assets and how Move tackles them.
+Robust Safety for Move
+The Move Borrow Checker
+Resources: A Safe Language Abstraction for Money
+Static Analysis and Verification
+Fast and Reliable Formal Verification of Smart Contracts with the Move Prover
+The Move Prover
+Verification of Programs Written in Libra's Move Language
+Exact and Linear-Time Gas-Cost Analysis
+Videos
+The Move Programming Language
+Move on Sui
+Move on Aptos
+Move: A Safe Language for Programming with Money - Talk from @sblackshear at the Fields Institute Blockchain research seminar series.
+Formal Verification of Move Programs for the Libra Blockchain - Talk from @DavidLDill at the Fields Institute Blockchain research seminar series.
+Move for the Masses - Talk at the Converge '22.
+Slides
+Move deep dive
+Move overview - Slides from Reasoning About Financial Systems workshop at SBC '22.
+Podcasts
+Move and Sui with Sam Blackshear from Mysten Labs
+Move AMA covering Move origin story
+Blog Posts
+Comparing Move and Rust smart contract development
+Comparing Diem-style Move and Sui Move
+Security
+Aptos-movevm Denial of Service Vulnerability
+Contributing
+Contributions welcome! Read the contribution guidelines first.
