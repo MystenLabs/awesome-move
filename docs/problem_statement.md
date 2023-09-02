@@ -10,7 +10,7 @@ The decentralized web needs a lingua franca that will allow platform creators to
 2. **Smart contract languages aren't safe enough.**
 Multimillion dollar exploits are a [regular](https://rekt.news/) occurrence.
 Effective smart contract developers must be experts in both security and their product.
-Language design mistakes (e.g., [re-entrancy](https://consensys.github.io/smart-contract-best-practices/attacks/reentrancy/), insufficient access control features, [silent integer overflow](https://consensys.github.io/smart-contract-best-practices/attacks/insecure-arithmetic/)) increase the attack surface for contracts, make audits expensive and slow, and frustrate the adoption of formal verification.
+Language design mistakes (e.g., [re-entrancy](https://scsfg.io/hackers/reentrancy/), insufficient access control features, [silent integer overflow](https://consensys.github.io/smart-contract-best-practices/attacks/insecure-arithmetic/)) increase the attack surface for contracts, make audits expensive and slow, and frustrate the adoption of formal verification.
 We believe that insufficient language safety is a serious barrier to both mainstream adoption of digital assets and accessible smart contract development.
 
 3. **Smart contract execution layers aren't fast.**
