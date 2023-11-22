@@ -53,6 +53,7 @@ Move is a programming language for writing safe smart contracts originally devel
 - [Celo](https://github.com/celo-org/celo-blockchain) - Blockchain with EVM and MoveVM ([coming soon](https://www.businesswire.com/news/home/20210921006104/en/Celo-Sets-Sights-On-Becoming-Fastest-EVM-Chain-Through-Collaboration-With-Mysten-Labs)).
 - [Diem](https://github.com/diem/diem) - The original Move based blockchain from Meta (form. Libra by Facebook) (discontinued).
 - [ChainX](https://github.com/chainx-org/ChainX) - Bitcoin's layer2 smart contract network has already supported WASM and EVM, and is supporting MoveVM (in [mainnet](https://scan.chainx.org)).
+- [Titan](https://github.com/titan-foundation/titan/) - Titan is an EVM equivalent Layer-1 network built for hosting web3 native zk-dApps (work in progress)
 
 ## Books
 
