@@ -213,6 +213,7 @@ The ability to separate blockchain-specific framework logic from the generic fun
 - [ComingChat](https://coming.chat/) - A decentralized social finance/web3 portal.  Supporting public chain wallets, such as Sui and Aptos wallets.
 - [Suiet Wallet](https://github.com/suiet/suiet) - A open-source wallet for Sui. ([Chrome Webstore](https://chrome.google.com/webstore/detail/suiet/khpkpbbcccdmmclmpigdgddabeilkdpd), [Website](https://suiet.app)) 
 - [Ethos Wallet](https://github.com/EthosWallet/chrome-extension) - Open-source chrome extension wallet for Sui ([Chrome Webstore](https://chrome.google.com/webstore/detail/ethos-sui-wallet/mcbigmjiafegjnnogedioegffbooigli), [Website](https://ethoswallet.xyz/)).
+- [Surf Wallet](https://github.com/surflabs/surf-extension#surf-wallet) - Surf Wallet offers both mobile and browser extension wallets.  ([Chrome Webstore](https://chromewebstore.google.com/detail/surf-wallet/emeeapjkbcbpbpgaagfchmcgglmebnen), [Website](https://surf.tech/)).
 
 ### Wallet Adapters
 
