@@ -199,6 +199,7 @@ The ability to separate blockchain-specific framework logic from the generic fun
 - [Starcoin IDE](https://marketplace.visualstudio.com/items?itemName=starcoinorg.starcoin-ide) - Maintained by the Starcoin team ([source code](https://github.com/starcoinorg/starcoin-ide)).
 - [Move Vim](https://github.com/rvmelkonian/move.vim) - Maintained by [@rvmelkonian](https://github.com/rvmelkonian/).
 - [move-mode](https://github.com/amnn/move-mode) - Major mode for Emacs maintained by [@amnn](https://github.com/amnn/).
+- [Sui Extension](https://marketplace.visualstudio.com/items?itemName=zktxio.sui-extension) - In VS Code, you can deploy, update and test Sui Move on the chain. Maintained by the zktx.io team.
 
 ## Package Managers
 - [Movey](https://www.movey.net/) - A crates.io-style repository of Move packages.
