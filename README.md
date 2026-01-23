@@ -129,6 +129,7 @@ Code written in Move.
 - [AptosOmniSwap](https://github.com/OmniBTC/OmniSwap/tree/main/aptos) - One-click swap between aptos and EVM chains (such as ETH/BSC/AVAX, etc.) based on the cross-chain interoperability protocol wormhole.
 - [DolaProtocol](https://github.com/OmniBTC/DolaProtocol) - A Decentralized Omnichain Liquidity Aggregation Protocol with the single coin pool of each public chain as the core, Wormhole, Layerzero and other cross-chain messaging protocols as the bridge, and Sui public chain as the settlement center.
 - [ObjectMarket](https://github.com/coming-chat/object-market) - A unique object trading marketplace in the Sui network.
+- [Invoice.OS](https://github.com/Akshith985/Aptos-RWA) - A decentralized RWA invoice financing platform on Aptos allowing businesses to tokenize and raise capital against unpaid invoices.
 
 ### SocialFi
 - [Dmens](https://github.com/coming-chat/Dmens) - Decentralized Moments which is a Blockchain Twitter Protocol built on the Sui network.
