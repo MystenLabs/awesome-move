@@ -129,6 +129,7 @@ Code written in Move.
 - [AptosOmniSwap](https://github.com/OmniBTC/OmniSwap/tree/main/aptos) - One-click swap between aptos and EVM chains (such as ETH/BSC/AVAX, etc.) based on the cross-chain interoperability protocol wormhole.
 - [DolaProtocol](https://github.com/OmniBTC/DolaProtocol) - A Decentralized Omnichain Liquidity Aggregation Protocol with the single coin pool of each public chain as the core, Wormhole, Layerzero and other cross-chain messaging protocols as the bridge, and Sui public chain as the settlement center.
 - [ObjectMarket](https://github.com/coming-chat/object-market) - A unique object trading marketplace in the Sui network.
+- [SuiBets](https://suibets.com) - A decentralized sports betting platform on Sui with verified smart contract, formal verification, and multisig treasury. [Verified on Suiscan](https://suiscan.xyz/mainnet/object/0x4d83eab83defa9e2488b3c525f54fc588185cfc1a906e5dada1954bf52296e76).
 
 ### SocialFi
 - [Dmens](https://github.com/coming-chat/Dmens) - Decentralized Moments which is a Blockchain Twitter Protocol built on the Sui network.
