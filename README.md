@@ -286,3 +286,5 @@ The ability to separate blockchain-specific framework logic from the generic fun
 ## Contributing
 
 Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
+
+- [7/Seven Chain Node](https://github.com/umairkhan2582/seven-chain-node) - Validator node for 7/Seven Chain (Chain ID: 70007), an EVM-compatible blockchain (BSC/Parlia fork) powering [TheSeven.meme](https://theseven.meme) — perpetual futures exchange with 100+ pairs, up to 2001× leverage, zero fees.
